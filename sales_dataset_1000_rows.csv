@@ -1,0 +1,1001 @@
+Order_ID,Date,Month,Year,Customer_ID,Product_ID,Region_ID,Sales,Profit,Product_Name,Category,Sub_Category,Customer_Name,Segment,Region_Name
+O0001,2023-05-04,5,2023,C005,P032,R2,269.6,78.3,Keyboard,Accessories,Input Devices,Rohan,Home Office,South
+O0002,2024-08-25,8,2024,C144,P028,R3,2858.34,486.25,Keyboard,Accessories,Input Devices,Rohan,Home Office,East
+O0003,2023-07-30,7,2023,C067,P044,R1,2346.05,205.58,Monitor,Technology,Displays,Vivaan,Home Office,North
+O0004,2024-01-11,1,2024,C016,P015,R3,2322.14,594.36,Tablet,Technology,Tablets,Aditya,Consumer,East
+O0005,2023-07-12,7,2023,C098,P019,R2,4732.98,741.49,Keyboard,Accessories,Input Devices,Rohan,Consumer,South
+O0006,2024-10-24,10,2024,C102,P078,R2,901.13,59.52,Headphones,Accessories,Audio,Aarav,Corporate,South
+O0007,2023-05-15,5,2023,C099,P065,R3,1754.28,315.89,Tablet,Technology,Tablets,Aarav,Consumer,East
+O0008,2024-12-23,12,2024,C015,P057,R2,4811.44,1019.19,Keyboard,Accessories,Input Devices,Meera,Consumer,South
+O0009,2024-11-27,11,2024,C073,P100,R3,366.06,53.55,Phone,Technology,Mobiles,Vivaan,Home Office,East
+O0010,2023-10-12,10,2023,C118,P019,R2,1205.91,348.59,Headphones,Accessories,Audio,Diya,Home Office,South
+O0011,2023-05-12,5,2023,C020,P049,R3,288.5,39.57,Headphones,Accessories,Audio,Aarav,Consumer,East
+O0012,2024-04-26,4,2024,C059,P051,R1,562.83,60.46,Laptop,Technology,Computers,Diya,Corporate,North
+O0013,2024-01-18,1,2024,C056,P030,R1,499.8,85.87,Phone,Technology,Mobiles,Aditya,Corporate,North
+O0014,2023-08-20,8,2023,C152,P030,R4,4271.48,602.57,Keyboard,Accessories,Input Devices,Diya,Consumer,West
+O0015,2024-03-22,3,2024,C138,P076,R2,2397.62,615.83,Laptop,Technology,Computers,Aditya,Corporate,South
+O0016,2024-01-02,1,2024,C075,P041,R3,2138.95,116.74,Keyboard,Accessories,Input Devices,Diya,Corporate,East
+O0017,2024-05-01,5,2024,C110,P031,R1,4354.35,1012.73,Headphones,Accessories,Audio,Rohan,Home Office,North
+O0018,2024-04-02,4,2024,C050,P097,R1,3723.07,1093.44,Tablet,Technology,Tablets,Isha,Consumer,North
+O0019,2024-08-27,8,2024,C009,P100,R1,3922.38,647.31,Keyboard,Accessories,Input Devices,Diya,Home Office,North
+O0020,2024-10-28,10,2024,C060,P047,R1,2835.58,777.51,Keyboard,Accessories,Input Devices,Rohan,Home Office,North
+O0021,2024-02-20,2,2024,C038,P088,R4,1541.92,362.24,Laptop,Technology,Computers,Rohan,Consumer,West
+O0022,2023-07-23,7,2023,C141,P070,R2,448.39,107.52,Keyboard,Accessories,Input Devices,Meera,Consumer,South
+O0023,2023-12-26,12,2023,C194,P076,R1,2397.29,128.47,Phone,Technology,Mobiles,Diya,Consumer,North
+O0024,2023-09-10,9,2023,C065,P091,R2,2809.36,143.83,Phone,Technology,Mobiles,Aditya,Consumer,South
+O0025,2023-03-19,3,2023,C148,P033,R3,3881.49,930.0,Monitor,Technology,Displays,Rohan,Corporate,East
+O0026,2023-03-12,3,2023,C196,P050,R4,2625.05,289.26,Tablet,Technology,Tablets,Aditya,Home Office,West
+O0027,2024-11-25,11,2024,C031,P096,R3,1885.9,150.55,Monitor,Technology,Displays,Meera,Home Office,East
+O0028,2023-08-31,8,2023,C025,P088,R2,3564.92,279.83,Phone,Technology,Mobiles,Aditya,Consumer,South
+O0029,2023-04-05,4,2023,C132,P009,R1,1141.7,327.54,Monitor,Technology,Displays,Rohan,Home Office,North
+O0030,2023-05-30,5,2023,C061,P028,R4,1803.6,308.29,Monitor,Technology,Displays,Vivaan,Consumer,West
+O0031,2023-12-12,12,2023,C122,P006,R1,125.19,12.12,Laptop,Technology,Computers,Rohan,Consumer,North
+O0032,2024-11-10,11,2024,C101,P049,R1,4325.13,1152.47,Laptop,Technology,Computers,Ananya,Corporate,North
+O0033,2023-06-30,6,2023,C002,P084,R3,3400.3,672.77,Phone,Technology,Mobiles,Diya,Corporate,East
+O0034,2023-08-23,8,2023,C086,P016,R1,3150.62,662.29,Monitor,Technology,Displays,Aarav,Home Office,North
+O0035,2023-10-22,10,2023,C166,P090,R2,2852.68,557.6,Laptop,Technology,Computers,Vivaan,Consumer,South
+O0036,2024-01-08,1,2024,C015,P068,R2,792.7,146.74,Tablet,Technology,Tablets,Aarav,Corporate,South
+O0037,2023-05-28,5,2023,C136,P053,R4,3808.63,888.9,Tablet,Technology,Tablets,Isha,Consumer,West
+O0038,2023-12-21,12,2023,C163,P005,R4,2362.3,428.9,Laptop,Technology,Computers,Meera,Corporate,West
+O0039,2023-01-16,1,2023,C083,P081,R2,2805.75,446.05,Keyboard,Accessories,Input Devices,Meera,Home Office,South
+O0040,2023-06-06,6,2023,C099,P098,R1,3596.71,737.32,Monitor,Technology,Displays,Meera,Consumer,North
+O0041,2023-03-23,3,2023,C192,P001,R3,2924.02,788.1,Phone,Technology,Mobiles,Diya,Home Office,East
+O0042,2024-03-09,3,2024,C081,P065,R3,2828.7,466.99,Tablet,Technology,Tablets,Aditya,Corporate,East
+O0043,2024-03-20,3,2024,C108,P065,R1,2372.45,418.81,Keyboard,Accessories,Input Devices,Ananya,Consumer,North
+O0044,2024-04-27,4,2024,C114,P048,R3,140.54,31.23,Phone,Technology,Mobiles,Diya,Consumer,East
+O0045,2024-10-02,10,2024,C081,P019,R3,1778.16,126.85,Phone,Technology,Mobiles,Ananya,Consumer,East
+O0046,2023-09-03,9,2023,C005,P082,R2,4270.94,369.25,Headphones,Accessories,Audio,Rohan,Corporate,South
+O0047,2023-10-13,10,2023,C084,P027,R1,3538.1,885.84,Phone,Technology,Mobiles,Diya,Corporate,North
+O0048,2024-11-05,11,2024,C121,P062,R3,1873.39,471.78,Monitor,Technology,Displays,Aditya,Consumer,East
+O0049,2023-10-25,10,2023,C012,P069,R2,3195.79,384.7,Keyboard,Accessories,Input Devices,Isha,Home Office,South
+O0050,2023-02-04,2,2023,C087,P065,R4,3799.8,695.56,Headphones,Accessories,Audio,Ananya,Consumer,West
+O0051,2024-03-01,3,2024,C049,P069,R4,3295.51,283.28,Tablet,Technology,Tablets,Rohan,Consumer,West
+O0052,2023-12-20,12,2023,C068,P080,R2,4603.61,867.06,Keyboard,Accessories,Input Devices,Rohan,Consumer,South
+O0053,2024-01-18,1,2024,C089,P025,R1,3524.97,372.38,Phone,Technology,Mobiles,Rohan,Consumer,North
+O0054,2024-04-15,4,2024,C093,P084,R3,4286.87,1123.48,Laptop,Technology,Computers,Isha,Corporate,East
+O0055,2023-08-08,8,2023,C013,P065,R2,2598.64,291.57,Tablet,Technology,Tablets,Meera,Consumer,South
+O0056,2024-02-15,2,2024,C053,P053,R3,962.96,148.46,Phone,Technology,Mobiles,Isha,Home Office,East
+O0057,2023-01-10,1,2023,C052,P084,R4,2820.18,778.55,Phone,Technology,Mobiles,Isha,Consumer,West
+O0058,2023-01-21,1,2023,C033,P062,R2,667.0,104.43,Tablet,Technology,Tablets,Ananya,Home Office,South
+O0059,2023-02-14,2,2023,C128,P042,R4,710.27,128.16,Monitor,Technology,Displays,Rohan,Consumer,West
+O0060,2024-12-05,12,2024,C140,P034,R4,4309.03,893.78,Monitor,Technology,Displays,Rohan,Home Office,West
+O0061,2023-11-11,11,2023,C148,P004,R1,2517.7,468.12,Laptop,Technology,Computers,Meera,Corporate,North
+O0062,2023-05-14,5,2023,C153,P075,R1,426.63,83.6,Phone,Technology,Mobiles,Rohan,Corporate,North
+O0063,2024-08-31,8,2024,C151,P050,R4,1460.63,342.35,Monitor,Technology,Displays,Aditya,Corporate,West
+O0064,2023-03-12,3,2023,C149,P095,R3,1204.23,280.28,Monitor,Technology,Displays,Isha,Home Office,East
+O0065,2023-07-28,7,2023,C162,P077,R4,1479.06,178.27,Tablet,Technology,Tablets,Diya,Corporate,West
+O0066,2023-05-03,5,2023,C193,P027,R2,3836.34,676.92,Tablet,Technology,Tablets,Isha,Corporate,South
+O0067,2023-09-13,9,2023,C085,P080,R1,1060.21,115.32,Monitor,Technology,Displays,Ananya,Home Office,North
+O0068,2023-11-25,11,2023,C091,P088,R3,3571.18,435.12,Phone,Technology,Mobiles,Meera,Home Office,East
+O0069,2023-12-23,12,2023,C183,P048,R4,334.9,53.57,Phone,Technology,Mobiles,Diya,Corporate,West
+O0070,2024-05-04,5,2024,C061,P046,R2,3628.2,1077.03,Keyboard,Accessories,Input Devices,Isha,Consumer,South
+O0071,2024-05-11,5,2024,C167,P004,R2,2012.77,120.0,Tablet,Technology,Tablets,Meera,Corporate,South
+O0072,2024-02-09,2,2024,C045,P068,R2,464.5,29.16,Tablet,Technology,Tablets,Meera,Home Office,South
+O0073,2024-11-20,11,2024,C107,P004,R2,4669.9,486.63,Tablet,Technology,Tablets,Meera,Corporate,South
+O0074,2024-07-22,7,2024,C183,P042,R1,3750.93,235.98,Monitor,Technology,Displays,Rohan,Home Office,North
+O0075,2024-02-23,2,2024,C117,P083,R4,3513.04,998.69,Phone,Technology,Mobiles,Ananya,Home Office,West
+O0076,2023-02-19,2,2023,C027,P085,R1,1934.1,172.85,Phone,Technology,Mobiles,Diya,Corporate,North
+O0077,2023-03-07,3,2023,C091,P039,R2,292.92,69.74,Tablet,Technology,Tablets,Diya,Home Office,South
+O0078,2023-08-10,8,2023,C054,P050,R1,3359.77,591.01,Laptop,Technology,Computers,Meera,Corporate,North
+O0079,2024-10-15,10,2024,C158,P090,R2,3319.46,271.82,Phone,Technology,Mobiles,Ananya,Consumer,South
+O0080,2024-07-03,7,2024,C079,P037,R2,936.26,190.78,Headphones,Accessories,Audio,Aarav,Corporate,South
+O0081,2023-05-29,5,2023,C008,P090,R2,2450.86,422.26,Tablet,Technology,Tablets,Vivaan,Consumer,South
+O0082,2023-03-27,3,2023,C077,P090,R2,2790.85,785.2,Phone,Technology,Mobiles,Isha,Corporate,South
+O0083,2023-07-17,7,2023,C137,P095,R1,3948.01,1078.64,Monitor,Technology,Displays,Diya,Corporate,North
+O0084,2024-11-24,11,2024,C069,P006,R3,1364.15,273.44,Laptop,Technology,Computers,Isha,Home Office,East
+O0085,2023-06-24,6,2023,C024,P083,R3,507.16,118.83,Tablet,Technology,Tablets,Aditya,Home Office,East
+O0086,2024-03-16,3,2024,C131,P085,R2,2622.69,439.26,Keyboard,Accessories,Input Devices,Vivaan,Consumer,South
+O0087,2023-05-27,5,2023,C176,P045,R3,593.66,157.58,Headphones,Accessories,Audio,Aditya,Home Office,East
+O0088,2023-08-08,8,2023,C034,P033,R2,3284.57,398.0,Keyboard,Accessories,Input Devices,Aarav,Home Office,South
+O0089,2023-08-07,8,2023,C199,P039,R3,1154.78,112.68,Laptop,Technology,Computers,Ananya,Consumer,East
+O0090,2024-11-25,11,2024,C051,P050,R4,231.51,14.06,Laptop,Technology,Computers,Diya,Corporate,West
+O0091,2024-03-01,3,2024,C027,P075,R4,3190.74,392.46,Laptop,Technology,Computers,Vivaan,Home Office,West
+O0092,2023-02-18,2,2023,C119,P061,R2,2578.97,669.5,Monitor,Technology,Displays,Diya,Corporate,South
+O0093,2023-12-02,12,2023,C091,P063,R4,4256.04,544.11,Phone,Technology,Mobiles,Isha,Home Office,West
+O0094,2024-12-10,12,2024,C128,P062,R3,3744.39,575.97,Keyboard,Accessories,Input Devices,Aditya,Home Office,East
+O0095,2023-02-12,2,2023,C191,P100,R3,2816.9,804.2,Monitor,Technology,Displays,Isha,Consumer,East
+O0096,2023-06-18,6,2023,C105,P045,R1,3434.52,589.29,Laptop,Technology,Computers,Aditya,Home Office,North
+O0097,2024-09-19,9,2024,C029,P088,R2,378.56,83.75,Phone,Technology,Mobiles,Aarav,Consumer,South
+O0098,2023-08-25,8,2023,C062,P067,R4,3036.54,685.67,Headphones,Accessories,Audio,Aditya,Home Office,West
+O0099,2024-10-04,10,2024,C151,P081,R1,3653.15,496.2,Tablet,Technology,Tablets,Aarav,Consumer,North
+O0100,2023-08-12,8,2023,C086,P047,R2,671.99,84.63,Tablet,Technology,Tablets,Ananya,Consumer,South
+O0101,2023-06-28,6,2023,C069,P079,R3,4239.54,880.59,Headphones,Accessories,Audio,Vivaan,Consumer,East
+O0102,2023-01-10,1,2023,C177,P011,R3,2096.97,404.49,Laptop,Technology,Computers,Rohan,Corporate,East
+O0103,2023-11-12,11,2023,C075,P008,R4,1198.12,127.66,Keyboard,Accessories,Input Devices,Aditya,Home Office,West
+O0104,2024-04-10,4,2024,C069,P093,R1,823.97,175.07,Laptop,Technology,Computers,Rohan,Consumer,North
+O0105,2024-07-09,7,2024,C044,P016,R3,250.59,13.37,Headphones,Accessories,Audio,Isha,Home Office,East
+O0106,2024-07-04,7,2024,C020,P089,R3,324.63,30.98,Phone,Technology,Mobiles,Isha,Home Office,East
+O0107,2023-06-06,6,2023,C071,P032,R3,3852.27,361.25,Phone,Technology,Mobiles,Meera,Corporate,East
+O0108,2024-02-02,2,2024,C161,P086,R1,445.4,35.17,Tablet,Technology,Tablets,Diya,Consumer,North
+O0109,2024-06-16,6,2024,C069,P086,R1,2774.68,416.29,Headphones,Accessories,Audio,Meera,Home Office,North
+O0110,2024-03-02,3,2024,C041,P056,R4,1948.08,232.08,Phone,Technology,Mobiles,Ananya,Consumer,West
+O0111,2023-05-10,5,2023,C180,P070,R3,4022.67,381.72,Monitor,Technology,Displays,Isha,Home Office,East
+O0112,2023-06-18,6,2023,C180,P089,R2,1153.67,81.63,Monitor,Technology,Displays,Diya,Home Office,South
+O0113,2023-10-08,10,2023,C043,P009,R2,1561.03,103.59,Phone,Technology,Mobiles,Aarav,Consumer,South
+O0114,2024-05-04,5,2024,C059,P027,R4,2992.6,707.13,Keyboard,Accessories,Input Devices,Diya,Corporate,West
+O0115,2024-08-20,8,2024,C138,P037,R3,1683.52,93.99,Headphones,Accessories,Audio,Vivaan,Home Office,East
+O0116,2024-10-22,10,2024,C095,P008,R4,4822.64,388.04,Phone,Technology,Mobiles,Diya,Consumer,West
+O0117,2023-12-22,12,2023,C093,P086,R1,3497.15,376.51,Phone,Technology,Mobiles,Diya,Corporate,North
+O0118,2023-01-02,1,2023,C181,P045,R4,1213.2,156.4,Tablet,Technology,Tablets,Meera,Home Office,West
+O0119,2024-09-30,9,2024,C166,P046,R2,3603.0,686.97,Headphones,Accessories,Audio,Aarav,Home Office,South
+O0120,2024-08-10,8,2024,C065,P092,R4,4193.62,813.08,Tablet,Technology,Tablets,Ananya,Corporate,West
+O0121,2023-09-15,9,2023,C088,P098,R3,620.85,182.85,Keyboard,Accessories,Input Devices,Rohan,Corporate,East
+O0122,2024-06-27,6,2024,C150,P005,R4,3704.27,1015.3,Monitor,Technology,Displays,Meera,Consumer,West
+O0123,2023-07-30,7,2023,C036,P025,R2,3734.38,646.95,Phone,Technology,Mobiles,Aditya,Corporate,South
+O0124,2024-02-13,2,2024,C170,P080,R3,3383.62,289.31,Monitor,Technology,Displays,Aarav,Corporate,East
+O0125,2023-08-13,8,2023,C064,P013,R4,2647.76,775.98,Phone,Technology,Mobiles,Rohan,Consumer,West
+O0126,2023-08-18,8,2023,C185,P007,R3,2892.04,229.88,Tablet,Technology,Tablets,Ananya,Consumer,East
+O0127,2023-11-24,11,2023,C141,P058,R1,709.88,163.12,Tablet,Technology,Tablets,Aditya,Corporate,North
+O0128,2023-06-24,6,2023,C133,P036,R3,472.83,58.29,Keyboard,Accessories,Input Devices,Ananya,Consumer,East
+O0129,2024-06-03,6,2024,C077,P096,R3,4284.01,1160.05,Phone,Technology,Mobiles,Diya,Consumer,East
+O0130,2023-08-04,8,2023,C013,P002,R4,2845.8,184.91,Phone,Technology,Mobiles,Aditya,Corporate,West
+O0131,2023-03-04,3,2023,C095,P013,R1,577.07,39.04,Headphones,Accessories,Audio,Diya,Consumer,North
+O0132,2023-11-05,11,2023,C099,P002,R4,2322.09,303.61,Headphones,Accessories,Audio,Aarav,Corporate,West
+O0133,2023-01-17,1,2023,C015,P010,R4,1897.34,511.94,Monitor,Technology,Displays,Vivaan,Consumer,West
+O0134,2024-05-31,5,2024,C179,P019,R3,2224.69,153.04,Headphones,Accessories,Audio,Diya,Consumer,East
+O0135,2024-09-10,9,2024,C151,P082,R4,502.31,112.04,Tablet,Technology,Tablets,Ananya,Consumer,West
+O0136,2023-06-28,6,2023,C028,P072,R2,3984.22,351.57,Tablet,Technology,Tablets,Ananya,Consumer,South
+O0137,2024-11-13,11,2024,C133,P066,R2,731.78,143.54,Headphones,Accessories,Audio,Vivaan,Home Office,South
+O0138,2024-06-21,6,2024,C071,P089,R3,2292.99,239.23,Laptop,Technology,Computers,Isha,Consumer,East
+O0139,2023-01-31,1,2023,C137,P041,R2,2664.62,559.33,Phone,Technology,Mobiles,Meera,Consumer,South
+O0140,2024-07-15,7,2024,C056,P018,R3,3035.32,515.92,Keyboard,Accessories,Input Devices,Meera,Corporate,East
+O0141,2023-09-14,9,2023,C170,P026,R1,1015.68,83.75,Phone,Technology,Mobiles,Meera,Home Office,North
+O0142,2024-03-17,3,2024,C183,P037,R1,3107.24,319.03,Laptop,Technology,Computers,Diya,Consumer,North
+O0143,2024-11-14,11,2024,C080,P010,R1,1632.08,477.42,Tablet,Technology,Tablets,Aditya,Home Office,North
+O0144,2024-06-30,6,2024,C186,P060,R3,3177.96,939.39,Laptop,Technology,Computers,Isha,Home Office,East
+O0145,2024-02-18,2,2024,C015,P094,R3,1467.09,311.64,Monitor,Technology,Displays,Rohan,Corporate,East
+O0146,2023-05-08,5,2023,C129,P098,R4,4169.49,238.75,Tablet,Technology,Tablets,Rohan,Corporate,West
+O0147,2024-01-25,1,2024,C003,P088,R2,2970.28,483.24,Keyboard,Accessories,Input Devices,Isha,Consumer,South
+O0148,2024-01-20,1,2024,C150,P086,R2,362.36,19.01,Headphones,Accessories,Audio,Diya,Corporate,South
+O0149,2023-10-27,10,2023,C001,P020,R4,1047.34,56.69,Phone,Technology,Mobiles,Rohan,Home Office,West
+O0150,2024-08-18,8,2024,C059,P077,R3,2677.57,221.07,Headphones,Accessories,Audio,Aditya,Home Office,East
+O0151,2023-08-02,8,2023,C039,P012,R4,311.98,41.35,Keyboard,Accessories,Input Devices,Rohan,Consumer,West
+O0152,2023-08-29,8,2023,C093,P098,R3,476.08,78.98,Keyboard,Accessories,Input Devices,Rohan,Corporate,East
+O0153,2024-06-04,6,2024,C133,P052,R4,2207.06,112.92,Laptop,Technology,Computers,Rohan,Corporate,West
+O0154,2024-12-06,12,2024,C131,P041,R2,4110.68,466.91,Keyboard,Accessories,Input Devices,Vivaan,Consumer,South
+O0155,2024-01-27,1,2024,C056,P038,R4,279.66,60.65,Laptop,Technology,Computers,Aditya,Corporate,West
+O0156,2023-01-03,1,2023,C189,P050,R3,4380.34,637.5,Phone,Technology,Mobiles,Meera,Corporate,East
+O0157,2024-06-07,6,2024,C158,P083,R4,3301.4,395.2,Monitor,Technology,Displays,Diya,Corporate,West
+O0158,2023-06-02,6,2023,C038,P037,R3,1059.12,165.46,Phone,Technology,Mobiles,Isha,Corporate,East
+O0159,2024-04-24,4,2024,C078,P016,R3,4496.23,736.39,Tablet,Technology,Tablets,Rohan,Consumer,East
+O0160,2024-05-16,5,2024,C185,P066,R2,3502.38,731.83,Tablet,Technology,Tablets,Diya,Home Office,South
+O0161,2024-10-12,10,2024,C183,P097,R2,262.62,25.48,Monitor,Technology,Displays,Diya,Corporate,South
+O0162,2024-01-09,1,2024,C169,P014,R1,4560.96,404.72,Phone,Technology,Mobiles,Aarav,Corporate,North
+O0163,2024-11-15,11,2024,C119,P073,R4,3766.53,731.64,Keyboard,Accessories,Input Devices,Isha,Home Office,West
+O0164,2023-02-27,2,2023,C040,P032,R1,2126.71,552.46,Monitor,Technology,Displays,Rohan,Home Office,North
+O0165,2024-04-28,4,2024,C119,P003,R4,4563.16,660.49,Keyboard,Accessories,Input Devices,Aditya,Consumer,West
+O0166,2024-09-19,9,2024,C096,P050,R2,3369.24,955.27,Tablet,Technology,Tablets,Vivaan,Corporate,South
+O0167,2024-12-31,12,2024,C070,P015,R1,290.43,34.59,Headphones,Accessories,Audio,Rohan,Home Office,North
+O0168,2023-03-09,3,2023,C033,P041,R2,4053.18,861.65,Laptop,Technology,Computers,Meera,Consumer,South
+O0169,2024-10-23,10,2024,C092,P050,R1,2169.27,412.02,Monitor,Technology,Displays,Isha,Corporate,North
+O0170,2024-05-04,5,2024,C128,P085,R4,1234.34,153.35,Phone,Technology,Mobiles,Vivaan,Corporate,West
+O0171,2024-07-24,7,2024,C073,P082,R4,2182.87,184.85,Tablet,Technology,Tablets,Meera,Consumer,West
+O0172,2024-01-07,1,2024,C045,P069,R3,4755.47,559.11,Monitor,Technology,Displays,Isha,Corporate,East
+O0173,2024-10-05,10,2024,C110,P019,R3,1687.52,364.15,Keyboard,Accessories,Input Devices,Isha,Home Office,East
+O0174,2024-11-05,11,2024,C052,P002,R2,2214.08,606.55,Monitor,Technology,Displays,Diya,Corporate,South
+O0175,2023-06-04,6,2023,C036,P081,R2,4945.62,1452.25,Headphones,Accessories,Audio,Ananya,Home Office,South
+O0176,2024-06-03,6,2024,C006,P010,R4,4949.28,1423.07,Laptop,Technology,Computers,Ananya,Home Office,West
+O0177,2024-05-24,5,2024,C019,P066,R2,4240.98,421.19,Headphones,Accessories,Audio,Diya,Corporate,South
+O0178,2024-11-07,11,2024,C134,P006,R2,290.76,20.04,Tablet,Technology,Tablets,Ananya,Corporate,South
+O0179,2024-02-09,2,2024,C131,P038,R3,3356.19,703.28,Phone,Technology,Mobiles,Vivaan,Home Office,East
+O0180,2023-12-20,12,2023,C119,P064,R3,4090.04,360.07,Keyboard,Accessories,Input Devices,Vivaan,Corporate,East
+O0181,2023-04-14,4,2023,C074,P015,R1,1698.38,482.54,Monitor,Technology,Displays,Isha,Corporate,North
+O0182,2024-05-19,5,2024,C085,P077,R3,2068.94,229.22,Tablet,Technology,Tablets,Isha,Consumer,East
+O0183,2024-07-25,7,2024,C143,P062,R1,1033.91,235.78,Laptop,Technology,Computers,Vivaan,Corporate,North
+O0184,2023-08-10,8,2023,C038,P085,R3,1869.95,558.06,Laptop,Technology,Computers,Diya,Corporate,East
+O0185,2024-09-27,9,2024,C041,P055,R2,552.78,138.21,Tablet,Technology,Tablets,Diya,Home Office,South
+O0186,2024-03-26,3,2024,C137,P003,R1,1764.49,406.56,Laptop,Technology,Computers,Isha,Consumer,North
+O0187,2023-05-30,5,2023,C065,P091,R1,1693.11,366.65,Tablet,Technology,Tablets,Aditya,Corporate,North
+O0188,2024-08-04,8,2024,C164,P094,R3,270.59,60.17,Monitor,Technology,Displays,Isha,Consumer,East
+O0189,2023-04-19,4,2023,C145,P013,R4,294.49,65.19,Keyboard,Accessories,Input Devices,Rohan,Consumer,West
+O0190,2024-08-25,8,2024,C012,P064,R2,1330.26,180.74,Tablet,Technology,Tablets,Rohan,Consumer,South
+O0191,2023-12-23,12,2023,C111,P014,R1,503.91,37.03,Headphones,Accessories,Audio,Vivaan,Consumer,North
+O0192,2024-04-23,4,2024,C162,P047,R2,1235.35,242.19,Laptop,Technology,Computers,Rohan,Home Office,South
+O0193,2024-04-27,4,2024,C066,P069,R1,4275.13,905.37,Phone,Technology,Mobiles,Aditya,Corporate,North
+O0194,2023-10-17,10,2023,C116,P089,R4,2955.54,531.78,Keyboard,Accessories,Input Devices,Meera,Consumer,West
+O0195,2024-12-03,12,2024,C053,P079,R4,3351.18,882.57,Monitor,Technology,Displays,Ananya,Home Office,West
+O0196,2023-07-24,7,2023,C078,P069,R3,1210.23,114.32,Tablet,Technology,Tablets,Aditya,Corporate,East
+O0197,2023-07-16,7,2023,C085,P025,R3,493.21,57.79,Monitor,Technology,Displays,Isha,Home Office,East
+O0198,2023-07-23,7,2023,C180,P014,R2,4008.36,882.65,Tablet,Technology,Tablets,Isha,Corporate,South
+O0199,2024-05-10,5,2024,C100,P007,R2,2757.53,779.54,Laptop,Technology,Computers,Ananya,Home Office,South
+O0200,2024-11-22,11,2024,C069,P043,R3,3632.33,948.51,Keyboard,Accessories,Input Devices,Aarav,Consumer,East
+O0201,2023-06-15,6,2023,C129,P020,R1,1151.72,267.67,Headphones,Accessories,Audio,Aarav,Consumer,North
+O0202,2024-12-09,12,2024,C097,P084,R1,2525.71,646.36,Tablet,Technology,Tablets,Meera,Corporate,North
+O0203,2024-02-21,2,2024,C045,P093,R4,3563.61,259.26,Headphones,Accessories,Audio,Diya,Corporate,West
+O0204,2024-05-18,5,2024,C189,P098,R4,2538.16,304.78,Headphones,Accessories,Audio,Ananya,Consumer,West
+O0205,2024-05-13,5,2024,C107,P078,R4,4433.85,261.0,Laptop,Technology,Computers,Meera,Home Office,West
+O0206,2024-02-12,2,2024,C134,P001,R2,1827.48,393.53,Laptop,Technology,Computers,Isha,Home Office,South
+O0207,2024-11-26,11,2024,C108,P092,R1,2787.98,406.98,Keyboard,Accessories,Input Devices,Meera,Home Office,North
+O0208,2023-05-16,5,2023,C104,P083,R1,4934.35,1262.46,Tablet,Technology,Tablets,Aditya,Corporate,North
+O0209,2023-09-20,9,2023,C151,P017,R3,2532.77,274.8,Tablet,Technology,Tablets,Ananya,Home Office,East
+O0210,2023-03-02,3,2023,C105,P068,R3,2418.77,594.38,Headphones,Accessories,Audio,Meera,Home Office,East
+O0211,2023-08-21,8,2023,C050,P025,R3,3747.32,315.92,Laptop,Technology,Computers,Isha,Corporate,East
+O0212,2023-01-08,1,2023,C135,P045,R2,2523.74,401.19,Phone,Technology,Mobiles,Aarav,Corporate,South
+O0213,2023-02-21,2,2023,C052,P043,R4,418.83,60.6,Phone,Technology,Mobiles,Isha,Home Office,West
+O0214,2023-01-02,1,2023,C075,P072,R3,2216.05,631.51,Keyboard,Accessories,Input Devices,Aarav,Consumer,East
+O0215,2023-02-20,2,2023,C039,P048,R3,1399.27,226.93,Tablet,Technology,Tablets,Ananya,Home Office,East
+O0216,2023-06-18,6,2023,C192,P053,R3,3571.37,616.39,Monitor,Technology,Displays,Ananya,Home Office,East
+O0217,2023-08-02,8,2023,C005,P018,R1,4782.9,392.28,Laptop,Technology,Computers,Ananya,Consumer,North
+O0218,2023-01-17,1,2023,C008,P009,R2,1558.1,188.9,Phone,Technology,Mobiles,Diya,Consumer,South
+O0219,2024-02-28,2,2024,C188,P011,R1,1756.25,215.91,Tablet,Technology,Tablets,Diya,Corporate,North
+O0220,2023-10-25,10,2023,C192,P071,R3,128.39,13.28,Tablet,Technology,Tablets,Vivaan,Corporate,East
+O0221,2024-09-19,9,2024,C131,P062,R1,997.9,111.19,Tablet,Technology,Tablets,Aarav,Corporate,North
+O0222,2024-12-18,12,2024,C193,P042,R2,3643.81,530.0,Phone,Technology,Mobiles,Isha,Corporate,South
+O0223,2023-07-17,7,2023,C062,P002,R4,3467.86,764.8,Monitor,Technology,Displays,Ananya,Consumer,West
+O0224,2023-04-29,4,2023,C134,P074,R4,4670.44,1011.95,Laptop,Technology,Computers,Meera,Corporate,West
+O0225,2024-07-24,7,2024,C074,P050,R4,1987.61,188.74,Phone,Technology,Mobiles,Diya,Home Office,West
+O0226,2023-12-27,12,2023,C126,P081,R2,1371.8,173.6,Phone,Technology,Mobiles,Aarav,Consumer,South
+O0227,2024-03-14,3,2024,C018,P054,R1,3020.1,406.62,Monitor,Technology,Displays,Aarav,Corporate,North
+O0228,2023-04-21,4,2023,C171,P024,R1,1087.59,77.45,Headphones,Accessories,Audio,Vivaan,Consumer,North
+O0229,2023-09-02,9,2023,C015,P010,R3,2502.31,573.99,Phone,Technology,Mobiles,Ananya,Consumer,East
+O0230,2024-06-16,6,2024,C020,P045,R4,1380.48,121.38,Phone,Technology,Mobiles,Vivaan,Home Office,West
+O0231,2024-08-27,8,2024,C152,P088,R2,2164.95,277.24,Keyboard,Accessories,Input Devices,Aditya,Corporate,South
+O0232,2024-10-06,10,2024,C053,P038,R1,2794.61,305.95,Laptop,Technology,Computers,Diya,Corporate,North
+O0233,2023-12-14,12,2023,C163,P025,R4,2114.95,215.21,Headphones,Accessories,Audio,Rohan,Consumer,West
+O0234,2023-01-08,1,2023,C149,P031,R3,4063.2,911.53,Phone,Technology,Mobiles,Ananya,Corporate,East
+O0235,2023-12-18,12,2023,C110,P041,R2,4349.37,1258.66,Headphones,Accessories,Audio,Ananya,Corporate,South
+O0236,2023-07-25,7,2023,C144,P053,R1,2803.47,629.85,Phone,Technology,Mobiles,Diya,Home Office,North
+O0237,2024-03-04,3,2024,C117,P093,R2,3123.24,706.14,Keyboard,Accessories,Input Devices,Rohan,Home Office,South
+O0238,2024-12-18,12,2024,C055,P087,R1,1313.61,87.5,Laptop,Technology,Computers,Vivaan,Home Office,North
+O0239,2023-05-15,5,2023,C079,P007,R1,2062.29,425.61,Keyboard,Accessories,Input Devices,Aarav,Home Office,North
+O0240,2024-01-10,1,2024,C015,P067,R2,4817.97,973.66,Keyboard,Accessories,Input Devices,Diya,Corporate,South
+O0241,2023-11-13,11,2023,C138,P055,R4,351.58,44.75,Headphones,Accessories,Audio,Aditya,Home Office,West
+O0242,2024-06-27,6,2024,C017,P026,R4,3027.18,334.43,Tablet,Technology,Tablets,Isha,Corporate,West
+O0243,2023-07-15,7,2023,C134,P087,R3,1214.77,302.95,Phone,Technology,Mobiles,Aarav,Consumer,East
+O0244,2024-03-26,3,2024,C138,P009,R4,1208.13,239.34,Monitor,Technology,Displays,Aarav,Corporate,West
+O0245,2024-11-28,11,2024,C033,P014,R1,4162.97,1245.86,Laptop,Technology,Computers,Ananya,Consumer,North
+O0246,2024-11-10,11,2024,C013,P069,R1,2420.66,630.24,Monitor,Technology,Displays,Aarav,Consumer,North
+O0247,2024-06-12,6,2024,C078,P019,R1,4279.32,436.8,Phone,Technology,Mobiles,Aditya,Home Office,North
+O0248,2023-01-13,1,2023,C054,P029,R4,4664.84,391.5,Phone,Technology,Mobiles,Aditya,Corporate,West
+O0249,2024-06-25,6,2024,C157,P056,R1,720.59,80.25,Tablet,Technology,Tablets,Ananya,Home Office,North
+O0250,2024-04-13,4,2024,C034,P076,R4,847.7,157.18,Headphones,Accessories,Audio,Vivaan,Home Office,West
+O0251,2024-09-13,9,2024,C038,P025,R1,552.95,161.47,Phone,Technology,Mobiles,Ananya,Home Office,North
+O0252,2024-01-27,1,2024,C017,P033,R4,485.8,45.13,Keyboard,Accessories,Input Devices,Aditya,Home Office,West
+O0253,2024-04-02,4,2024,C067,P084,R4,4055.98,298.49,Laptop,Technology,Computers,Diya,Home Office,West
+O0254,2024-12-24,12,2024,C126,P100,R4,3179.52,782.08,Keyboard,Accessories,Input Devices,Aarav,Consumer,West
+O0255,2023-08-21,8,2023,C112,P075,R1,4482.46,592.15,Tablet,Technology,Tablets,Diya,Corporate,North
+O0256,2024-04-19,4,2024,C017,P056,R3,1351.35,203.36,Monitor,Technology,Displays,Isha,Corporate,East
+O0257,2023-06-17,6,2023,C090,P084,R4,4477.6,1269.37,Headphones,Accessories,Audio,Rohan,Consumer,West
+O0258,2024-08-12,8,2024,C063,P012,R3,2071.36,269.88,Keyboard,Accessories,Input Devices,Aarav,Corporate,East
+O0259,2024-05-03,5,2024,C170,P084,R3,1025.61,290.48,Monitor,Technology,Displays,Ananya,Home Office,East
+O0260,2023-09-12,9,2023,C139,P041,R4,724.38,69.64,Laptop,Technology,Computers,Aarav,Consumer,West
+O0261,2023-05-04,5,2023,C095,P048,R1,3042.73,391.81,Keyboard,Accessories,Input Devices,Meera,Corporate,North
+O0262,2023-10-25,10,2023,C025,P031,R4,1281.33,267.87,Headphones,Accessories,Audio,Isha,Corporate,West
+O0263,2024-03-18,3,2024,C068,P082,R3,2494.07,305.46,Laptop,Technology,Computers,Vivaan,Corporate,East
+O0264,2023-05-05,5,2023,C120,P044,R4,891.44,47.93,Tablet,Technology,Tablets,Vivaan,Home Office,West
+O0265,2024-02-20,2,2024,C164,P013,R4,4674.2,1392.61,Laptop,Technology,Computers,Diya,Home Office,West
+O0266,2024-07-05,7,2024,C095,P086,R4,855.06,64.75,Laptop,Technology,Computers,Isha,Corporate,West
+O0267,2023-03-16,3,2023,C073,P001,R2,4074.48,370.69,Phone,Technology,Mobiles,Ananya,Corporate,South
+O0268,2024-11-24,11,2024,C110,P021,R4,526.02,45.47,Headphones,Accessories,Audio,Ananya,Consumer,West
+O0269,2024-05-05,5,2024,C090,P089,R3,3887.98,321.24,Phone,Technology,Mobiles,Ananya,Home Office,East
+O0270,2024-11-18,11,2024,C082,P093,R2,2495.29,461.56,Monitor,Technology,Displays,Rohan,Corporate,South
+O0271,2023-02-24,2,2023,C027,P089,R3,1836.16,107.71,Phone,Technology,Mobiles,Meera,Consumer,East
+O0272,2023-03-02,3,2023,C165,P069,R1,4720.32,1008.37,Tablet,Technology,Tablets,Rohan,Home Office,North
+O0273,2024-09-17,9,2024,C007,P082,R1,347.24,57.68,Tablet,Technology,Tablets,Vivaan,Corporate,North
+O0274,2024-04-16,4,2024,C084,P038,R4,873.13,92.05,Monitor,Technology,Displays,Meera,Corporate,West
+O0275,2024-08-31,8,2024,C192,P064,R2,1193.05,316.56,Tablet,Technology,Tablets,Aarav,Corporate,South
+O0276,2023-10-18,10,2023,C085,P034,R1,2698.68,256.29,Monitor,Technology,Displays,Rohan,Home Office,North
+O0277,2023-10-10,10,2023,C115,P020,R4,1572.44,386.63,Laptop,Technology,Computers,Isha,Consumer,West
+O0278,2023-05-06,5,2023,C093,P034,R2,2498.69,590.08,Phone,Technology,Mobiles,Aditya,Home Office,South
+O0279,2023-07-16,7,2023,C099,P076,R3,1768.27,407.33,Laptop,Technology,Computers,Meera,Corporate,East
+O0280,2023-03-02,3,2023,C171,P043,R4,1287.0,182.5,Laptop,Technology,Computers,Ananya,Consumer,West
+O0281,2024-01-26,1,2024,C092,P020,R4,1502.31,361.79,Monitor,Technology,Displays,Rohan,Corporate,West
+O0282,2024-10-08,10,2024,C048,P058,R3,3878.69,215.33,Tablet,Technology,Tablets,Meera,Corporate,East
+O0283,2024-02-21,2,2024,C007,P021,R4,4538.93,1313.42,Monitor,Technology,Displays,Rohan,Corporate,West
+O0284,2024-09-25,9,2024,C127,P067,R2,2608.75,274.92,Phone,Technology,Mobiles,Meera,Corporate,South
+O0285,2024-05-16,5,2024,C183,P055,R2,4606.65,433.85,Phone,Technology,Mobiles,Isha,Corporate,South
+O0286,2023-07-13,7,2023,C172,P008,R3,293.61,25.53,Monitor,Technology,Displays,Isha,Home Office,East
+O0287,2023-10-14,10,2023,C128,P061,R3,1281.4,271.22,Phone,Technology,Mobiles,Aditya,Consumer,East
+O0288,2024-07-01,7,2024,C003,P009,R1,2512.83,415.38,Laptop,Technology,Computers,Diya,Consumer,North
+O0289,2024-03-13,3,2024,C160,P004,R3,3090.88,738.04,Laptop,Technology,Computers,Meera,Home Office,East
+O0290,2024-03-18,3,2024,C038,P001,R3,2277.84,202.22,Monitor,Technology,Displays,Meera,Corporate,East
+O0291,2023-09-22,9,2023,C187,P034,R3,2901.71,714.96,Laptop,Technology,Computers,Meera,Home Office,East
+O0292,2024-06-18,6,2024,C129,P071,R2,2558.89,143.28,Keyboard,Accessories,Input Devices,Diya,Home Office,South
+O0293,2024-05-04,5,2024,C002,P059,R2,3107.82,482.85,Phone,Technology,Mobiles,Aarav,Home Office,South
+O0294,2023-10-03,10,2023,C061,P053,R1,3780.58,695.3,Headphones,Accessories,Audio,Ananya,Corporate,North
+O0295,2023-12-12,12,2023,C115,P069,R2,3167.75,354.8,Phone,Technology,Mobiles,Isha,Consumer,South
+O0296,2024-07-28,7,2024,C066,P014,R2,2922.43,677.22,Tablet,Technology,Tablets,Diya,Home Office,South
+O0297,2023-06-29,6,2023,C074,P078,R1,4527.76,1175.03,Monitor,Technology,Displays,Rohan,Corporate,North
+O0298,2024-04-12,4,2024,C132,P071,R2,235.32,17.87,Headphones,Accessories,Audio,Meera,Home Office,South
+O0299,2024-11-05,11,2024,C142,P016,R2,578.32,32.48,Tablet,Technology,Tablets,Aarav,Home Office,South
+O0300,2024-11-29,11,2024,C195,P051,R1,1369.84,266.9,Monitor,Technology,Displays,Ananya,Consumer,North
+O0301,2024-11-19,11,2024,C123,P029,R4,921.06,47.49,Tablet,Technology,Tablets,Aarav,Consumer,West
+O0302,2024-09-14,9,2024,C095,P030,R1,4441.34,1289.7,Headphones,Accessories,Audio,Diya,Home Office,North
+O0303,2023-04-04,4,2023,C173,P006,R3,194.47,27.83,Tablet,Technology,Tablets,Diya,Corporate,East
+O0304,2024-03-24,3,2024,C096,P070,R1,4115.32,219.88,Phone,Technology,Mobiles,Meera,Corporate,North
+O0305,2024-06-17,6,2024,C029,P078,R2,3031.5,881.54,Phone,Technology,Mobiles,Aditya,Consumer,South
+O0306,2024-04-13,4,2024,C003,P060,R3,4173.69,245.89,Monitor,Technology,Displays,Aditya,Home Office,East
+O0307,2024-08-26,8,2024,C019,P041,R2,2555.25,657.85,Tablet,Technology,Tablets,Meera,Consumer,South
+O0308,2024-09-30,9,2024,C147,P062,R3,1544.07,228.27,Phone,Technology,Mobiles,Ananya,Home Office,East
+O0309,2023-12-29,12,2023,C078,P086,R1,270.76,63.89,Phone,Technology,Mobiles,Ananya,Consumer,North
+O0310,2023-03-10,3,2023,C128,P062,R4,3249.99,823.46,Tablet,Technology,Tablets,Vivaan,Corporate,West
+O0311,2024-06-27,6,2024,C034,P024,R2,107.93,15.99,Phone,Technology,Mobiles,Vivaan,Home Office,South
+O0312,2023-08-01,8,2023,C085,P004,R2,4186.94,1196.37,Headphones,Accessories,Audio,Rohan,Consumer,South
+O0313,2024-12-27,12,2024,C185,P048,R4,2822.13,542.1,Tablet,Technology,Tablets,Isha,Consumer,West
+O0314,2024-09-30,9,2024,C149,P095,R3,366.59,93.23,Laptop,Technology,Computers,Rohan,Consumer,East
+O0315,2024-08-06,8,2024,C051,P097,R4,2491.82,137.99,Phone,Technology,Mobiles,Vivaan,Consumer,West
+O0316,2024-07-26,7,2024,C087,P034,R2,3688.53,820.19,Monitor,Technology,Displays,Isha,Home Office,South
+O0317,2023-10-30,10,2023,C015,P067,R4,1828.68,341.91,Monitor,Technology,Displays,Diya,Home Office,West
+O0318,2023-11-13,11,2023,C012,P086,R4,3058.1,780.36,Keyboard,Accessories,Input Devices,Rohan,Corporate,West
+O0319,2023-10-22,10,2023,C147,P050,R2,1175.54,343.22,Monitor,Technology,Displays,Isha,Home Office,South
+O0320,2023-05-12,5,2023,C096,P089,R3,3469.63,627.1,Laptop,Technology,Computers,Ananya,Corporate,East
+O0321,2024-02-18,2,2024,C031,P051,R4,4305.94,864.95,Headphones,Accessories,Audio,Meera,Home Office,West
+O0322,2023-11-02,11,2023,C185,P051,R3,2011.92,150.36,Tablet,Technology,Tablets,Isha,Corporate,East
+O0323,2023-08-13,8,2023,C200,P022,R2,4471.12,1115.23,Phone,Technology,Mobiles,Isha,Home Office,South
+O0324,2023-09-03,9,2023,C184,P081,R4,4198.71,1063.69,Laptop,Technology,Computers,Rohan,Consumer,West
+O0325,2023-02-09,2,2023,C153,P031,R3,3580.31,1039.92,Keyboard,Accessories,Input Devices,Meera,Corporate,East
+O0326,2024-04-30,4,2024,C145,P047,R2,3881.02,797.67,Laptop,Technology,Computers,Aditya,Corporate,South
+O0327,2023-04-19,4,2023,C066,P069,R1,919.51,139.15,Keyboard,Accessories,Input Devices,Ananya,Consumer,North
+O0328,2023-05-31,5,2023,C013,P072,R4,1492.53,343.08,Monitor,Technology,Displays,Rohan,Home Office,West
+O0329,2024-04-14,4,2024,C029,P003,R4,3374.21,871.4,Monitor,Technology,Displays,Ananya,Corporate,West
+O0330,2024-07-31,7,2024,C120,P073,R4,1151.28,93.24,Headphones,Accessories,Audio,Vivaan,Corporate,West
+O0331,2024-07-04,7,2024,C147,P006,R2,3518.85,205.84,Headphones,Accessories,Audio,Ananya,Corporate,South
+O0332,2023-05-03,5,2023,C108,P010,R1,2158.63,198.61,Headphones,Accessories,Audio,Ananya,Consumer,North
+O0333,2023-10-12,10,2023,C143,P073,R4,1401.53,412.98,Monitor,Technology,Displays,Aditya,Corporate,West
+O0334,2023-05-09,5,2023,C178,P042,R1,2229.68,376.52,Phone,Technology,Mobiles,Diya,Corporate,North
+O0335,2024-07-06,7,2024,C069,P089,R1,1122.92,188.38,Tablet,Technology,Tablets,Ananya,Home Office,North
+O0336,2023-10-04,10,2023,C112,P047,R2,3699.68,949.09,Headphones,Accessories,Audio,Ananya,Corporate,South
+O0337,2024-07-29,7,2024,C131,P003,R2,548.53,112.88,Tablet,Technology,Tablets,Aditya,Home Office,South
+O0338,2024-02-13,2,2024,C168,P051,R3,4817.39,601.1,Keyboard,Accessories,Input Devices,Diya,Home Office,East
+O0339,2023-06-01,6,2023,C015,P076,R2,2038.21,416.28,Headphones,Accessories,Audio,Ananya,Consumer,South
+O0340,2023-01-02,1,2023,C130,P078,R1,4824.31,1286.39,Headphones,Accessories,Audio,Meera,Home Office,North
+O0341,2024-04-18,4,2024,C131,P042,R1,3302.27,934.63,Headphones,Accessories,Audio,Meera,Corporate,North
+O0342,2024-01-06,1,2024,C143,P096,R4,4901.53,431.23,Phone,Technology,Mobiles,Meera,Corporate,West
+O0343,2024-09-12,9,2024,C011,P001,R2,609.86,153.39,Keyboard,Accessories,Input Devices,Vivaan,Corporate,South
+O0344,2023-03-08,3,2023,C042,P026,R1,4517.76,598.04,Tablet,Technology,Tablets,Isha,Home Office,North
+O0345,2024-09-29,9,2024,C095,P009,R4,4958.77,1409.24,Headphones,Accessories,Audio,Isha,Home Office,West
+O0346,2024-07-25,7,2024,C072,P039,R1,4430.82,1244.35,Laptop,Technology,Computers,Rohan,Home Office,North
+O0347,2024-03-01,3,2024,C166,P030,R2,960.42,61.42,Tablet,Technology,Tablets,Vivaan,Consumer,South
+O0348,2023-11-21,11,2023,C107,P042,R2,3414.31,194.67,Phone,Technology,Mobiles,Aarav,Corporate,South
+O0349,2024-05-17,5,2024,C131,P054,R4,4806.8,1128.25,Headphones,Accessories,Audio,Aarav,Home Office,West
+O0350,2023-07-31,7,2023,C195,P028,R1,2037.33,196.68,Keyboard,Accessories,Input Devices,Meera,Home Office,North
+O0351,2024-10-27,10,2024,C138,P074,R3,4873.01,324.44,Phone,Technology,Mobiles,Diya,Home Office,East
+O0352,2024-08-21,8,2024,C126,P060,R1,679.68,191.33,Keyboard,Accessories,Input Devices,Isha,Consumer,North
+O0353,2023-04-16,4,2023,C174,P038,R4,4149.31,878.04,Keyboard,Accessories,Input Devices,Aarav,Corporate,West
+O0354,2024-12-12,12,2024,C132,P079,R1,261.97,23.47,Headphones,Accessories,Audio,Diya,Home Office,North
+O0355,2024-10-27,10,2024,C057,P035,R1,109.64,12.08,Monitor,Technology,Displays,Aarav,Corporate,North
+O0356,2024-03-10,3,2024,C090,P092,R3,4663.81,1199.41,Headphones,Accessories,Audio,Diya,Corporate,East
+O0357,2023-06-15,6,2023,C122,P046,R2,4650.95,653.83,Phone,Technology,Mobiles,Isha,Home Office,South
+O0358,2024-06-11,6,2024,C193,P003,R3,4069.53,720.93,Laptop,Technology,Computers,Aditya,Corporate,East
+O0359,2023-12-10,12,2023,C135,P020,R4,2660.84,732.19,Laptop,Technology,Computers,Ananya,Consumer,West
+O0360,2024-04-02,4,2024,C180,P006,R4,1180.86,290.74,Monitor,Technology,Displays,Isha,Consumer,West
+O0361,2024-07-24,7,2024,C188,P012,R4,2393.6,244.29,Headphones,Accessories,Audio,Diya,Consumer,West
+O0362,2023-06-20,6,2023,C075,P028,R2,4268.2,383.76,Headphones,Accessories,Audio,Aditya,Corporate,South
+O0363,2023-03-20,3,2023,C075,P096,R4,223.1,63.07,Phone,Technology,Mobiles,Ananya,Corporate,West
+O0364,2024-10-06,10,2024,C004,P061,R2,3187.95,562.33,Phone,Technology,Mobiles,Vivaan,Home Office,South
+O0365,2023-10-14,10,2023,C131,P061,R3,2309.3,333.51,Phone,Technology,Mobiles,Aditya,Corporate,East
+O0366,2024-07-24,7,2024,C074,P038,R1,4718.23,700.86,Headphones,Accessories,Audio,Ananya,Corporate,North
+O0367,2023-11-05,11,2023,C079,P047,R3,1175.94,349.4,Keyboard,Accessories,Input Devices,Diya,Corporate,East
+O0368,2023-04-16,4,2023,C114,P017,R2,4139.44,959.18,Headphones,Accessories,Audio,Rohan,Corporate,South
+O0369,2023-03-03,3,2023,C070,P028,R4,4232.88,827.49,Laptop,Technology,Computers,Meera,Consumer,West
+O0370,2023-03-15,3,2023,C191,P034,R3,3419.1,246.24,Laptop,Technology,Computers,Aarav,Corporate,East
+O0371,2023-10-05,10,2023,C089,P034,R1,3057.27,515.27,Monitor,Technology,Displays,Isha,Consumer,North
+O0372,2023-06-02,6,2023,C071,P031,R3,2411.62,335.98,Laptop,Technology,Computers,Aditya,Consumer,East
+O0373,2024-09-18,9,2024,C027,P079,R4,2319.36,488.58,Headphones,Accessories,Audio,Diya,Home Office,West
+O0374,2023-12-23,12,2023,C151,P052,R1,248.52,35.95,Headphones,Accessories,Audio,Aditya,Consumer,North
+O0375,2023-09-12,9,2023,C170,P096,R3,139.29,30.7,Headphones,Accessories,Audio,Ananya,Corporate,East
+O0376,2024-08-01,8,2024,C140,P095,R1,752.55,113.57,Phone,Technology,Mobiles,Isha,Consumer,North
+O0377,2023-03-17,3,2023,C025,P041,R4,1896.76,567.99,Headphones,Accessories,Audio,Meera,Consumer,West
+O0378,2024-01-15,1,2024,C013,P076,R1,506.41,81.19,Phone,Technology,Mobiles,Vivaan,Consumer,North
+O0379,2023-09-23,9,2023,C077,P020,R2,4325.26,1277.31,Laptop,Technology,Computers,Diya,Consumer,South
+O0380,2024-03-14,3,2024,C080,P100,R3,4998.39,1409.41,Tablet,Technology,Tablets,Aarav,Consumer,East
+O0381,2024-12-25,12,2024,C086,P043,R3,3481.26,955.29,Monitor,Technology,Displays,Meera,Home Office,East
+O0382,2024-06-29,6,2024,C001,P099,R4,4213.01,764.37,Tablet,Technology,Tablets,Vivaan,Home Office,West
+O0383,2023-08-17,8,2023,C018,P045,R2,3581.14,428.41,Phone,Technology,Mobiles,Aarav,Corporate,South
+O0384,2024-10-03,10,2024,C101,P067,R1,1042.39,137.49,Laptop,Technology,Computers,Vivaan,Home Office,North
+O0385,2024-02-10,2,2024,C099,P099,R3,3746.63,344.66,Tablet,Technology,Tablets,Rohan,Home Office,East
+O0386,2024-08-31,8,2024,C182,P026,R2,2516.51,594.98,Tablet,Technology,Tablets,Meera,Consumer,South
+O0387,2023-07-27,7,2023,C043,P090,R1,575.71,77.24,Laptop,Technology,Computers,Rohan,Home Office,North
+O0388,2023-07-27,7,2023,C165,P100,R2,445.9,27.41,Headphones,Accessories,Audio,Ananya,Corporate,South
+O0389,2023-07-12,7,2023,C149,P080,R2,2819.12,623.48,Tablet,Technology,Tablets,Isha,Home Office,South
+O0390,2024-05-22,5,2024,C008,P064,R1,2659.97,681.13,Tablet,Technology,Tablets,Meera,Corporate,North
+O0391,2024-10-02,10,2024,C145,P083,R4,2245.59,596.92,Headphones,Accessories,Audio,Aditya,Consumer,West
+O0392,2023-02-08,2,2023,C056,P037,R1,3534.8,1058.14,Tablet,Technology,Tablets,Aarav,Consumer,North
+O0393,2023-03-21,3,2023,C080,P081,R1,190.74,11.39,Keyboard,Accessories,Input Devices,Vivaan,Consumer,North
+O0394,2024-06-30,6,2024,C108,P073,R3,348.86,77.31,Keyboard,Accessories,Input Devices,Aarav,Corporate,East
+O0395,2023-05-10,5,2023,C057,P052,R4,1855.71,367.55,Monitor,Technology,Displays,Rohan,Home Office,West
+O0396,2023-09-02,9,2023,C190,P029,R1,2508.9,578.03,Laptop,Technology,Computers,Meera,Consumer,North
+O0397,2023-12-21,12,2023,C113,P098,R2,3067.04,774.78,Monitor,Technology,Displays,Diya,Corporate,South
+O0398,2024-10-18,10,2024,C084,P049,R4,3179.35,178.13,Headphones,Accessories,Audio,Ananya,Consumer,West
+O0399,2023-10-23,10,2023,C165,P052,R3,302.69,38.97,Keyboard,Accessories,Input Devices,Aditya,Corporate,East
+O0400,2024-04-01,4,2024,C182,P076,R4,3918.52,783.88,Monitor,Technology,Displays,Aarav,Home Office,West
+O0401,2024-05-26,5,2024,C125,P059,R4,978.28,209.39,Phone,Technology,Mobiles,Aarav,Consumer,West
+O0402,2024-08-20,8,2024,C014,P073,R1,1686.01,146.97,Monitor,Technology,Displays,Rohan,Corporate,North
+O0403,2024-04-18,4,2024,C163,P095,R1,2127.24,160.59,Monitor,Technology,Displays,Rohan,Corporate,North
+O0404,2023-08-06,8,2023,C068,P023,R3,1817.44,342.82,Phone,Technology,Mobiles,Isha,Home Office,East
+O0405,2023-06-20,6,2023,C010,P010,R3,3364.96,291.71,Keyboard,Accessories,Input Devices,Diya,Corporate,East
+O0406,2024-05-25,5,2024,C080,P095,R2,2493.76,422.11,Keyboard,Accessories,Input Devices,Diya,Corporate,South
+O0407,2024-05-18,5,2024,C122,P063,R3,407.75,22.02,Monitor,Technology,Displays,Diya,Corporate,East
+O0408,2023-10-06,10,2023,C142,P015,R2,4702.18,292.38,Tablet,Technology,Tablets,Meera,Corporate,South
+O0409,2024-10-19,10,2024,C055,P005,R1,1977.91,468.65,Phone,Technology,Mobiles,Diya,Corporate,North
+O0410,2024-12-26,12,2024,C138,P035,R2,2501.54,705.1,Tablet,Technology,Tablets,Diya,Home Office,South
+O0411,2023-06-03,6,2023,C157,P023,R1,2182.57,109.39,Phone,Technology,Mobiles,Vivaan,Corporate,North
+O0412,2024-11-23,11,2024,C070,P092,R3,2125.34,510.37,Monitor,Technology,Displays,Aarav,Home Office,East
+O0413,2024-02-08,2,2024,C091,P002,R2,2489.51,515.51,Tablet,Technology,Tablets,Aditya,Corporate,South
+O0414,2024-10-25,10,2024,C021,P058,R2,3296.28,245.25,Keyboard,Accessories,Input Devices,Ananya,Consumer,South
+O0415,2023-06-27,6,2023,C158,P007,R1,2435.02,711.27,Phone,Technology,Mobiles,Rohan,Home Office,North
+O0416,2024-10-27,10,2024,C080,P095,R2,2926.63,226.59,Phone,Technology,Mobiles,Vivaan,Corporate,South
+O0417,2023-04-07,4,2023,C036,P072,R2,4444.91,1050.86,Laptop,Technology,Computers,Rohan,Home Office,South
+O0418,2023-11-20,11,2023,C113,P076,R4,4003.27,584.91,Tablet,Technology,Tablets,Ananya,Home Office,West
+O0419,2024-09-19,9,2024,C088,P033,R1,3394.57,502.58,Laptop,Technology,Computers,Aarav,Consumer,North
+O0420,2024-10-06,10,2024,C035,P084,R2,4380.57,849.8,Headphones,Accessories,Audio,Aditya,Corporate,South
+O0421,2023-06-24,6,2023,C119,P055,R1,771.01,123.98,Phone,Technology,Mobiles,Rohan,Consumer,North
+O0422,2024-06-08,6,2024,C009,P092,R3,780.87,204.72,Phone,Technology,Mobiles,Aarav,Corporate,East
+O0423,2023-03-03,3,2023,C033,P095,R2,4677.91,903.56,Laptop,Technology,Computers,Aarav,Corporate,South
+O0424,2024-05-10,5,2024,C078,P063,R1,752.83,164.19,Keyboard,Accessories,Input Devices,Isha,Corporate,North
+O0425,2023-07-02,7,2023,C068,P020,R3,4464.26,925.75,Monitor,Technology,Displays,Meera,Home Office,East
+O0426,2024-08-08,8,2024,C008,P053,R3,3554.8,304.29,Keyboard,Accessories,Input Devices,Aarav,Consumer,East
+O0427,2023-09-26,9,2023,C134,P012,R1,3900.58,307.98,Laptop,Technology,Computers,Aditya,Home Office,North
+O0428,2023-02-19,2,2023,C063,P031,R4,2589.25,510.76,Keyboard,Accessories,Input Devices,Diya,Home Office,West
+O0429,2024-03-18,3,2024,C134,P057,R3,2712.23,680.18,Headphones,Accessories,Audio,Aditya,Corporate,East
+O0430,2024-10-07,10,2024,C056,P032,R3,4842.07,939.48,Tablet,Technology,Tablets,Aarav,Consumer,East
+O0431,2024-03-27,3,2024,C066,P080,R1,3535.05,248.66,Phone,Technology,Mobiles,Ananya,Corporate,North
+O0432,2023-05-01,5,2023,C107,P057,R1,4368.55,1046.19,Keyboard,Accessories,Input Devices,Rohan,Consumer,North
+O0433,2024-09-07,9,2024,C070,P049,R1,3700.2,1073.95,Headphones,Accessories,Audio,Aarav,Home Office,North
+O0434,2023-10-10,10,2023,C015,P067,R4,1414.56,154.98,Monitor,Technology,Displays,Diya,Consumer,West
+O0435,2024-07-02,7,2024,C025,P039,R2,333.79,65.77,Keyboard,Accessories,Input Devices,Ananya,Home Office,South
+O0436,2023-02-04,2,2023,C024,P078,R4,2712.26,187.9,Headphones,Accessories,Audio,Ananya,Consumer,West
+O0437,2023-03-10,3,2023,C117,P011,R2,3701.99,559.19,Laptop,Technology,Computers,Ananya,Corporate,South
+O0438,2024-09-11,9,2024,C095,P006,R3,1081.91,111.48,Phone,Technology,Mobiles,Rohan,Corporate,East
+O0439,2023-01-22,1,2023,C085,P043,R3,3546.35,359.71,Laptop,Technology,Computers,Aditya,Corporate,East
+O0440,2024-04-19,4,2024,C009,P054,R1,2622.47,458.69,Keyboard,Accessories,Input Devices,Meera,Home Office,North
+O0441,2023-01-22,1,2023,C068,P092,R4,2766.42,797.47,Tablet,Technology,Tablets,Vivaan,Consumer,West
+O0442,2023-03-15,3,2023,C014,P031,R2,4758.92,885.9,Tablet,Technology,Tablets,Isha,Home Office,South
+O0443,2023-01-10,1,2023,C124,P054,R3,4409.4,896.07,Keyboard,Accessories,Input Devices,Diya,Home Office,East
+O0444,2024-10-31,10,2024,C186,P067,R4,4119.85,1174.42,Keyboard,Accessories,Input Devices,Diya,Consumer,West
+O0445,2024-08-07,8,2024,C141,P026,R4,2214.24,117.11,Tablet,Technology,Tablets,Vivaan,Corporate,West
+O0446,2024-08-24,8,2024,C012,P002,R4,2418.8,329.74,Headphones,Accessories,Audio,Meera,Consumer,West
+O0447,2024-07-24,7,2024,C116,P071,R1,1565.28,135.79,Headphones,Accessories,Audio,Diya,Corporate,North
+O0448,2023-10-29,10,2023,C059,P062,R2,4810.03,295.76,Laptop,Technology,Computers,Vivaan,Corporate,South
+O0449,2024-06-14,6,2024,C020,P066,R1,3672.02,983.63,Headphones,Accessories,Audio,Ananya,Corporate,North
+O0450,2023-12-27,12,2023,C071,P099,R3,3057.33,553.91,Headphones,Accessories,Audio,Aarav,Home Office,East
+O0451,2023-11-07,11,2023,C110,P085,R1,1068.51,179.92,Laptop,Technology,Computers,Vivaan,Corporate,North
+O0452,2024-09-28,9,2024,C150,P085,R4,3094.58,570.61,Headphones,Accessories,Audio,Aarav,Corporate,West
+O0453,2023-11-05,11,2023,C196,P039,R2,3898.73,949.55,Laptop,Technology,Computers,Ananya,Home Office,South
+O0454,2023-06-11,6,2023,C107,P051,R1,2705.69,295.71,Laptop,Technology,Computers,Meera,Home Office,North
+O0455,2024-10-11,10,2024,C072,P019,R3,376.37,67.54,Keyboard,Accessories,Input Devices,Ananya,Consumer,East
+O0456,2024-12-17,12,2024,C165,P016,R2,651.06,157.49,Headphones,Accessories,Audio,Diya,Consumer,South
+O0457,2023-08-10,8,2023,C062,P079,R3,1041.7,232.52,Headphones,Accessories,Audio,Rohan,Consumer,East
+O0458,2024-09-24,9,2024,C094,P016,R4,1969.21,570.09,Keyboard,Accessories,Input Devices,Diya,Home Office,West
+O0459,2023-02-14,2,2023,C170,P053,R3,3434.77,886.39,Laptop,Technology,Computers,Diya,Corporate,East
+O0460,2023-08-01,8,2023,C033,P029,R3,2828.82,643.57,Monitor,Technology,Displays,Vivaan,Consumer,East
+O0461,2024-07-12,7,2024,C077,P016,R1,2305.84,572.78,Phone,Technology,Mobiles,Rohan,Home Office,North
+O0462,2023-04-11,4,2023,C062,P046,R3,3777.85,462.21,Headphones,Accessories,Audio,Aarav,Corporate,East
+O0463,2024-07-01,7,2024,C021,P057,R4,1237.3,281.03,Phone,Technology,Mobiles,Aarav,Home Office,West
+O0464,2024-11-15,11,2024,C172,P072,R3,3753.59,831.81,Laptop,Technology,Computers,Diya,Consumer,East
+O0465,2024-02-28,2,2024,C059,P073,R1,4185.94,396.87,Phone,Technology,Mobiles,Aarav,Corporate,North
+O0466,2023-10-14,10,2023,C178,P028,R3,3395.98,502.39,Headphones,Accessories,Audio,Aarav,Corporate,East
+O0467,2024-02-15,2,2024,C009,P056,R2,4725.09,1215.58,Laptop,Technology,Computers,Isha,Corporate,South
+O0468,2024-05-26,5,2024,C136,P077,R1,4377.19,1190.11,Tablet,Technology,Tablets,Isha,Consumer,North
+O0469,2023-10-17,10,2023,C031,P058,R2,1694.36,364.55,Monitor,Technology,Displays,Aditya,Consumer,South
+O0470,2023-02-23,2,2023,C166,P039,R2,4361.68,798.24,Laptop,Technology,Computers,Isha,Consumer,South
+O0471,2023-12-31,12,2023,C170,P027,R1,4475.54,254.49,Laptop,Technology,Computers,Vivaan,Home Office,North
+O0472,2023-09-17,9,2023,C016,P037,R2,3314.08,672.05,Keyboard,Accessories,Input Devices,Ananya,Consumer,South
+O0473,2023-06-27,6,2023,C095,P035,R1,2469.12,603.0,Keyboard,Accessories,Input Devices,Aarav,Home Office,North
+O0474,2024-06-19,6,2024,C199,P017,R2,2013.47,232.93,Laptop,Technology,Computers,Vivaan,Home Office,South
+O0475,2024-07-20,7,2024,C034,P080,R4,4921.14,958.45,Headphones,Accessories,Audio,Isha,Consumer,West
+O0476,2024-02-01,2,2024,C180,P047,R4,454.35,75.14,Tablet,Technology,Tablets,Ananya,Home Office,West
+O0477,2023-07-19,7,2023,C154,P055,R2,4878.96,510.74,Phone,Technology,Mobiles,Rohan,Corporate,South
+O0478,2024-08-08,8,2024,C002,P096,R1,4849.53,1221.85,Headphones,Accessories,Audio,Rohan,Consumer,North
+O0479,2023-09-13,9,2023,C019,P028,R4,240.88,33.44,Monitor,Technology,Displays,Vivaan,Corporate,West
+O0480,2024-01-18,1,2024,C050,P091,R1,4944.72,678.39,Headphones,Accessories,Audio,Ananya,Corporate,North
+O0481,2024-06-10,6,2024,C055,P009,R2,1816.99,414.04,Phone,Technology,Mobiles,Isha,Corporate,South
+O0482,2023-02-19,2,2023,C152,P036,R1,217.03,23.38,Headphones,Accessories,Audio,Aditya,Consumer,North
+O0483,2024-04-20,4,2024,C113,P066,R4,3918.26,1094.35,Laptop,Technology,Computers,Rohan,Corporate,West
+O0484,2024-07-05,7,2024,C132,P071,R2,1919.5,152.36,Laptop,Technology,Computers,Vivaan,Consumer,South
+O0485,2023-02-26,2,2023,C141,P076,R3,1956.15,503.12,Phone,Technology,Mobiles,Meera,Corporate,East
+O0486,2023-11-19,11,2023,C190,P016,R2,699.76,180.44,Monitor,Technology,Displays,Diya,Home Office,South
+O0487,2023-02-07,2,2023,C021,P037,R2,3674.63,965.36,Phone,Technology,Mobiles,Meera,Home Office,South
+O0488,2024-06-04,6,2024,C119,P053,R2,4825.23,1172.99,Monitor,Technology,Displays,Vivaan,Corporate,South
+O0489,2024-12-19,12,2024,C165,P016,R1,3497.12,454.31,Laptop,Technology,Computers,Meera,Corporate,North
+O0490,2024-12-16,12,2024,C111,P068,R3,3453.82,731.23,Laptop,Technology,Computers,Rohan,Corporate,East
+O0491,2024-08-26,8,2024,C011,P099,R2,3165.82,424.45,Monitor,Technology,Displays,Rohan,Consumer,South
+O0492,2024-09-12,9,2024,C141,P051,R1,2877.79,840.27,Phone,Technology,Mobiles,Ananya,Home Office,North
+O0493,2024-04-23,4,2024,C108,P018,R3,1099.54,263.87,Phone,Technology,Mobiles,Vivaan,Consumer,East
+O0494,2024-05-12,5,2024,C159,P059,R1,511.11,151.53,Tablet,Technology,Tablets,Isha,Corporate,North
+O0495,2023-01-08,1,2023,C125,P022,R1,875.21,135.06,Headphones,Accessories,Audio,Vivaan,Consumer,North
+O0496,2024-05-22,5,2024,C024,P082,R4,1508.91,153.98,Phone,Technology,Mobiles,Rohan,Consumer,West
+O0497,2024-08-13,8,2024,C146,P058,R4,1898.8,414.25,Laptop,Technology,Computers,Diya,Consumer,West
+O0498,2023-04-14,4,2023,C089,P012,R4,4870.8,578.46,Laptop,Technology,Computers,Vivaan,Corporate,West
+O0499,2023-07-29,7,2023,C069,P047,R4,3830.74,1068.56,Headphones,Accessories,Audio,Vivaan,Consumer,West
+O0500,2023-09-14,9,2023,C192,P046,R2,1624.05,336.65,Tablet,Technology,Tablets,Diya,Corporate,South
+O0501,2024-08-08,8,2024,C098,P057,R4,4573.49,592.47,Laptop,Technology,Computers,Diya,Consumer,West
+O0502,2024-03-18,3,2024,C150,P006,R3,4013.96,810.97,Phone,Technology,Mobiles,Aarav,Consumer,East
+O0503,2024-11-23,11,2024,C049,P014,R4,2951.12,867.13,Laptop,Technology,Computers,Aditya,Consumer,West
+O0504,2024-07-26,7,2024,C019,P042,R3,2643.01,215.07,Keyboard,Accessories,Input Devices,Aditya,Corporate,East
+O0505,2024-05-27,5,2024,C128,P089,R4,4669.92,309.24,Tablet,Technology,Tablets,Aarav,Consumer,West
+O0506,2024-06-30,6,2024,C163,P007,R2,1727.21,223.02,Headphones,Accessories,Audio,Diya,Corporate,South
+O0507,2024-10-18,10,2024,C105,P063,R1,1277.79,82.61,Monitor,Technology,Displays,Ananya,Corporate,North
+O0508,2023-01-06,1,2023,C137,P060,R2,1818.77,412.44,Phone,Technology,Mobiles,Vivaan,Consumer,South
+O0509,2023-12-18,12,2023,C172,P095,R3,4639.42,1111.83,Headphones,Accessories,Audio,Ananya,Consumer,East
+O0510,2024-02-14,2,2024,C155,P085,R4,3209.87,661.85,Monitor,Technology,Displays,Aditya,Home Office,West
+O0511,2023-12-24,12,2023,C181,P066,R1,3710.95,472.04,Headphones,Accessories,Audio,Aditya,Corporate,North
+O0512,2024-04-12,4,2024,C036,P100,R4,4853.86,484.88,Phone,Technology,Mobiles,Ananya,Corporate,West
+O0513,2024-05-20,5,2024,C176,P073,R3,156.98,31.16,Phone,Technology,Mobiles,Meera,Corporate,East
+O0514,2024-05-11,5,2024,C107,P025,R3,2259.98,538.85,Headphones,Accessories,Audio,Vivaan,Consumer,East
+O0515,2024-09-26,9,2024,C112,P062,R3,252.71,19.9,Phone,Technology,Mobiles,Diya,Corporate,East
+O0516,2023-04-11,4,2023,C126,P037,R3,3143.29,647.11,Laptop,Technology,Computers,Ananya,Home Office,East
+O0517,2023-11-11,11,2023,C198,P090,R2,3955.83,560.52,Phone,Technology,Mobiles,Aditya,Home Office,South
+O0518,2024-10-04,10,2024,C171,P004,R1,2299.4,623.18,Headphones,Accessories,Audio,Ananya,Consumer,North
+O0519,2024-10-19,10,2024,C097,P098,R1,4549.97,745.48,Tablet,Technology,Tablets,Rohan,Corporate,North
+O0520,2024-03-19,3,2024,C195,P073,R3,3692.55,851.53,Keyboard,Accessories,Input Devices,Aditya,Home Office,East
+O0521,2023-01-30,1,2023,C123,P085,R2,180.21,17.33,Tablet,Technology,Tablets,Aarav,Consumer,South
+O0522,2023-10-04,10,2023,C167,P019,R2,889.39,85.24,Headphones,Accessories,Audio,Isha,Consumer,South
+O0523,2024-12-26,12,2024,C128,P010,R2,4968.76,818.1,Headphones,Accessories,Audio,Rohan,Home Office,South
+O0524,2024-09-13,9,2024,C024,P019,R3,3852.36,1105.89,Tablet,Technology,Tablets,Rohan,Consumer,East
+O0525,2023-11-22,11,2023,C076,P015,R4,517.58,57.63,Phone,Technology,Mobiles,Isha,Home Office,West
+O0526,2024-10-01,10,2024,C077,P077,R2,3015.03,297.77,Tablet,Technology,Tablets,Rohan,Home Office,South
+O0527,2023-05-16,5,2023,C046,P015,R2,3627.97,776.47,Laptop,Technology,Computers,Rohan,Consumer,South
+O0528,2024-06-15,6,2024,C090,P057,R2,2262.3,625.69,Phone,Technology,Mobiles,Ananya,Consumer,South
+O0529,2023-04-30,4,2023,C005,P054,R1,2735.27,668.47,Laptop,Technology,Computers,Diya,Consumer,North
+O0530,2024-05-21,5,2024,C022,P004,R3,2027.7,192.11,Phone,Technology,Mobiles,Aditya,Corporate,East
+O0531,2023-04-10,4,2023,C186,P069,R3,280.12,40.08,Monitor,Technology,Displays,Ananya,Corporate,East
+O0532,2023-12-30,12,2023,C020,P060,R2,3046.76,386.04,Phone,Technology,Mobiles,Aarav,Home Office,South
+O0533,2023-01-14,1,2023,C064,P023,R3,999.44,176.8,Keyboard,Accessories,Input Devices,Ananya,Consumer,East
+O0534,2023-05-28,5,2023,C101,P055,R1,4518.84,670.23,Laptop,Technology,Computers,Isha,Consumer,North
+O0535,2024-05-04,5,2024,C198,P073,R4,4363.28,1009.05,Monitor,Technology,Displays,Ananya,Corporate,West
+O0536,2023-03-11,3,2023,C052,P061,R1,4121.07,434.1,Tablet,Technology,Tablets,Isha,Consumer,North
+O0537,2024-10-02,10,2024,C167,P008,R1,4238.1,273.86,Keyboard,Accessories,Input Devices,Aditya,Home Office,North
+O0538,2023-01-15,1,2023,C080,P057,R4,1617.18,175.15,Tablet,Technology,Tablets,Meera,Corporate,West
+O0539,2023-08-27,8,2023,C045,P077,R3,2655.52,710.33,Headphones,Accessories,Audio,Vivaan,Consumer,East
+O0540,2023-07-26,7,2023,C111,P019,R3,1909.16,500.6,Keyboard,Accessories,Input Devices,Ananya,Consumer,East
+O0541,2024-01-06,1,2024,C055,P054,R3,2525.84,377.35,Tablet,Technology,Tablets,Aditya,Consumer,East
+O0542,2024-06-12,6,2024,C052,P069,R2,3495.17,446.15,Phone,Technology,Mobiles,Meera,Corporate,South
+O0543,2024-02-01,2,2024,C160,P054,R2,1564.57,99.0,Tablet,Technology,Tablets,Diya,Home Office,South
+O0544,2024-06-14,6,2024,C084,P023,R3,3920.31,480.08,Headphones,Accessories,Audio,Diya,Consumer,East
+O0545,2024-01-05,1,2024,C094,P067,R3,4597.7,328.98,Tablet,Technology,Tablets,Rohan,Home Office,East
+O0546,2023-01-04,1,2023,C061,P028,R4,4213.65,451.15,Phone,Technology,Mobiles,Diya,Home Office,West
+O0547,2024-03-13,3,2024,C133,P012,R1,1950.43,385.96,Headphones,Accessories,Audio,Isha,Consumer,North
+O0548,2024-02-21,2,2024,C062,P045,R1,1755.3,319.59,Laptop,Technology,Computers,Meera,Corporate,North
+O0549,2024-10-08,10,2024,C003,P077,R2,586.7,31.55,Headphones,Accessories,Audio,Rohan,Home Office,South
+O0550,2024-04-01,4,2024,C081,P018,R2,4330.5,983.54,Headphones,Accessories,Audio,Vivaan,Consumer,South
+O0551,2023-10-14,10,2023,C042,P064,R4,2851.44,821.9,Keyboard,Accessories,Input Devices,Diya,Home Office,West
+O0552,2023-04-25,4,2023,C102,P078,R3,1905.76,520.78,Keyboard,Accessories,Input Devices,Meera,Corporate,East
+O0553,2023-09-07,9,2023,C146,P054,R1,2358.57,383.88,Headphones,Accessories,Audio,Ananya,Consumer,North
+O0554,2024-09-16,9,2024,C199,P047,R2,4663.5,282.17,Keyboard,Accessories,Input Devices,Ananya,Corporate,South
+O0555,2024-07-15,7,2024,C145,P081,R1,1024.61,164.37,Headphones,Accessories,Audio,Vivaan,Consumer,North
+O0556,2023-11-04,11,2023,C182,P044,R4,2531.27,257.98,Phone,Technology,Mobiles,Vivaan,Consumer,West
+O0557,2024-02-24,2,2024,C142,P044,R1,4730.68,1180.55,Keyboard,Accessories,Input Devices,Ananya,Corporate,North
+O0558,2024-02-24,2,2024,C186,P030,R1,2679.01,423.27,Tablet,Technology,Tablets,Meera,Consumer,North
+O0559,2023-10-16,10,2023,C163,P040,R3,531.47,121.55,Laptop,Technology,Computers,Isha,Consumer,East
+O0560,2023-07-26,7,2023,C107,P001,R3,2806.05,749.11,Headphones,Accessories,Audio,Aditya,Home Office,East
+O0561,2023-06-18,6,2023,C072,P026,R3,155.42,20.4,Laptop,Technology,Computers,Isha,Home Office,East
+O0562,2024-09-24,9,2024,C063,P004,R2,3882.42,1050.22,Tablet,Technology,Tablets,Vivaan,Corporate,South
+O0563,2023-09-17,9,2023,C057,P040,R4,3929.58,819.88,Tablet,Technology,Tablets,Aarav,Corporate,West
+O0564,2024-07-15,7,2024,C186,P039,R2,1359.95,176.88,Tablet,Technology,Tablets,Aarav,Home Office,South
+O0565,2023-11-02,11,2023,C075,P043,R1,2492.92,501.01,Laptop,Technology,Computers,Isha,Consumer,North
+O0566,2023-06-04,6,2023,C075,P031,R1,4305.84,384.71,Tablet,Technology,Tablets,Meera,Home Office,North
+O0567,2023-10-07,10,2023,C163,P067,R4,4218.1,1109.84,Monitor,Technology,Displays,Diya,Consumer,West
+O0568,2024-01-22,1,2024,C160,P085,R3,3324.56,563.13,Keyboard,Accessories,Input Devices,Aditya,Consumer,East
+O0569,2024-04-29,4,2024,C198,P060,R4,1089.94,296.46,Tablet,Technology,Tablets,Isha,Consumer,West
+O0570,2023-02-05,2,2023,C194,P047,R3,3634.44,673.74,Tablet,Technology,Tablets,Meera,Consumer,East
+O0571,2023-11-17,11,2023,C031,P090,R1,2879.75,503.83,Phone,Technology,Mobiles,Rohan,Corporate,North
+O0572,2023-01-07,1,2023,C039,P095,R1,1810.81,123.33,Tablet,Technology,Tablets,Ananya,Home Office,North
+O0573,2024-09-18,9,2024,C028,P023,R4,4742.83,599.43,Monitor,Technology,Displays,Vivaan,Home Office,West
+O0574,2024-09-15,9,2024,C085,P039,R2,2532.28,430.02,Laptop,Technology,Computers,Diya,Home Office,South
+O0575,2024-11-24,11,2024,C135,P017,R3,4894.46,1389.9,Keyboard,Accessories,Input Devices,Diya,Corporate,East
+O0576,2023-09-26,9,2023,C195,P080,R3,104.05,11.86,Tablet,Technology,Tablets,Isha,Home Office,East
+O0577,2023-08-08,8,2023,C161,P073,R4,1102.33,291.16,Monitor,Technology,Displays,Vivaan,Consumer,West
+O0578,2024-04-26,4,2024,C087,P065,R3,4745.82,1068.54,Phone,Technology,Mobiles,Meera,Home Office,East
+O0579,2023-06-16,6,2023,C108,P002,R1,364.89,67.12,Tablet,Technology,Tablets,Rohan,Corporate,North
+O0580,2024-10-16,10,2024,C090,P015,R3,1220.9,305.26,Keyboard,Accessories,Input Devices,Meera,Home Office,East
+O0581,2023-09-29,9,2023,C166,P057,R2,3181.59,435.36,Laptop,Technology,Computers,Rohan,Corporate,South
+O0582,2023-12-15,12,2023,C115,P052,R3,1187.5,286.66,Headphones,Accessories,Audio,Aarav,Consumer,East
+O0583,2023-12-15,12,2023,C034,P030,R1,3301.58,553.15,Laptop,Technology,Computers,Meera,Home Office,North
+O0584,2024-12-18,12,2024,C191,P002,R2,1998.91,227.46,Phone,Technology,Mobiles,Rohan,Corporate,South
+O0585,2023-03-05,3,2023,C064,P017,R2,2082.56,521.91,Keyboard,Accessories,Input Devices,Diya,Consumer,South
+O0586,2023-07-31,7,2023,C059,P034,R2,854.26,58.53,Headphones,Accessories,Audio,Diya,Corporate,South
+O0587,2023-01-02,1,2023,C019,P042,R1,148.01,20.88,Headphones,Accessories,Audio,Isha,Home Office,North
+O0588,2024-09-19,9,2024,C066,P047,R2,564.8,71.83,Tablet,Technology,Tablets,Meera,Home Office,South
+O0589,2023-11-02,11,2023,C050,P092,R3,2153.52,437.32,Tablet,Technology,Tablets,Aditya,Home Office,East
+O0590,2024-04-23,4,2024,C017,P039,R2,3992.58,1100.79,Monitor,Technology,Displays,Isha,Corporate,South
+O0591,2023-05-13,5,2023,C129,P024,R4,1426.81,263.51,Tablet,Technology,Tablets,Aditya,Consumer,West
+O0592,2024-03-15,3,2024,C017,P081,R4,3591.7,672.92,Keyboard,Accessories,Input Devices,Isha,Consumer,West
+O0593,2023-09-28,9,2023,C012,P062,R3,1319.43,209.8,Keyboard,Accessories,Input Devices,Vivaan,Home Office,East
+O0594,2023-01-29,1,2023,C037,P026,R2,3835.07,924.52,Keyboard,Accessories,Input Devices,Aditya,Consumer,South
+O0595,2024-03-01,3,2024,C088,P034,R3,1003.0,213.8,Monitor,Technology,Displays,Diya,Consumer,East
+O0596,2024-08-25,8,2024,C080,P090,R1,106.81,26.82,Phone,Technology,Mobiles,Aarav,Corporate,North
+O0597,2024-02-28,2,2024,C081,P100,R3,1321.68,131.18,Headphones,Accessories,Audio,Aarav,Consumer,East
+O0598,2023-09-14,9,2023,C078,P044,R3,1557.5,422.89,Phone,Technology,Mobiles,Isha,Consumer,East
+O0599,2023-12-30,12,2023,C190,P006,R1,2607.12,260.22,Laptop,Technology,Computers,Rohan,Consumer,North
+O0600,2024-10-12,10,2024,C052,P074,R1,1016.35,249.37,Monitor,Technology,Displays,Aditya,Consumer,North
+O0601,2024-07-26,7,2024,C006,P016,R1,1793.18,264.27,Headphones,Accessories,Audio,Rohan,Corporate,North
+O0602,2023-09-13,9,2023,C121,P055,R3,3878.03,995.76,Keyboard,Accessories,Input Devices,Diya,Home Office,East
+O0603,2024-12-08,12,2024,C094,P024,R4,3006.04,428.82,Laptop,Technology,Computers,Aarav,Home Office,West
+O0604,2024-02-08,2,2024,C180,P052,R3,2798.89,511.02,Keyboard,Accessories,Input Devices,Isha,Consumer,East
+O0605,2024-06-19,6,2024,C168,P092,R4,389.28,98.92,Tablet,Technology,Tablets,Aarav,Consumer,West
+O0606,2023-12-06,12,2023,C139,P027,R3,2169.99,485.44,Monitor,Technology,Displays,Ananya,Corporate,East
+O0607,2023-04-03,4,2023,C002,P020,R2,1368.82,336.37,Phone,Technology,Mobiles,Meera,Consumer,South
+O0608,2024-05-19,5,2024,C059,P050,R2,636.9,102.61,Tablet,Technology,Tablets,Vivaan,Consumer,South
+O0609,2023-03-23,3,2023,C029,P048,R4,1179.12,259.31,Keyboard,Accessories,Input Devices,Rohan,Corporate,West
+O0610,2023-01-06,1,2023,C138,P081,R1,1666.85,399.02,Phone,Technology,Mobiles,Meera,Corporate,North
+O0611,2024-03-15,3,2024,C083,P093,R3,943.49,68.58,Tablet,Technology,Tablets,Vivaan,Consumer,East
+O0612,2024-09-20,9,2024,C028,P087,R3,2789.18,744.7,Monitor,Technology,Displays,Aditya,Consumer,East
+O0613,2023-04-30,4,2023,C169,P048,R4,4666.78,705.9,Tablet,Technology,Tablets,Diya,Consumer,West
+O0614,2024-11-18,11,2024,C021,P084,R2,3712.01,748.51,Headphones,Accessories,Audio,Meera,Corporate,South
+O0615,2024-05-10,5,2024,C076,P098,R1,4379.89,368.75,Tablet,Technology,Tablets,Vivaan,Consumer,North
+O0616,2024-03-25,3,2024,C161,P066,R1,1104.7,313.49,Keyboard,Accessories,Input Devices,Vivaan,Consumer,North
+O0617,2024-06-19,6,2024,C076,P088,R3,3255.05,646.1,Phone,Technology,Mobiles,Aditya,Corporate,East
+O0618,2023-08-24,8,2023,C187,P094,R2,1492.45,387.8,Monitor,Technology,Displays,Rohan,Consumer,South
+O0619,2023-03-28,3,2023,C111,P061,R3,4954.67,901.85,Tablet,Technology,Tablets,Meera,Home Office,East
+O0620,2024-12-10,12,2024,C093,P020,R4,1577.32,403.17,Keyboard,Accessories,Input Devices,Vivaan,Consumer,West
+O0621,2023-04-10,4,2023,C066,P043,R3,3909.5,958.55,Tablet,Technology,Tablets,Meera,Home Office,East
+O0622,2023-04-25,4,2023,C154,P085,R2,2147.31,214.61,Phone,Technology,Mobiles,Rohan,Corporate,South
+O0623,2024-03-28,3,2024,C066,P090,R2,386.26,25.0,Keyboard,Accessories,Input Devices,Isha,Home Office,South
+O0624,2023-08-04,8,2023,C042,P095,R3,3975.42,978.81,Monitor,Technology,Displays,Aarav,Corporate,East
+O0625,2024-02-24,2,2024,C112,P087,R1,901.37,244.28,Phone,Technology,Mobiles,Aditya,Consumer,North
+O0626,2024-12-19,12,2024,C104,P092,R4,3288.25,944.79,Laptop,Technology,Computers,Vivaan,Corporate,West
+O0627,2023-09-05,9,2023,C085,P042,R2,490.73,93.15,Headphones,Accessories,Audio,Aditya,Consumer,South
+O0628,2024-10-13,10,2024,C040,P078,R2,470.41,89.99,Keyboard,Accessories,Input Devices,Rohan,Consumer,South
+O0629,2023-10-05,10,2023,C093,P042,R2,2129.37,573.89,Tablet,Technology,Tablets,Rohan,Home Office,South
+O0630,2023-06-08,6,2023,C050,P003,R1,3167.25,454.26,Headphones,Accessories,Audio,Vivaan,Home Office,North
+O0631,2024-01-14,1,2024,C040,P070,R1,1950.23,227.0,Headphones,Accessories,Audio,Ananya,Home Office,North
+O0632,2024-04-16,4,2024,C143,P080,R3,1823.01,221.42,Phone,Technology,Mobiles,Vivaan,Consumer,East
+O0633,2024-04-23,4,2024,C121,P009,R4,1335.09,210.91,Monitor,Technology,Displays,Aditya,Consumer,West
+O0634,2023-05-21,5,2023,C090,P066,R4,1825.86,478.82,Laptop,Technology,Computers,Aarav,Home Office,West
+O0635,2024-01-11,1,2024,C028,P050,R4,2761.9,321.92,Tablet,Technology,Tablets,Ananya,Consumer,West
+O0636,2023-04-21,4,2023,C166,P083,R1,234.36,21.21,Keyboard,Accessories,Input Devices,Vivaan,Home Office,North
+O0637,2023-04-26,4,2023,C091,P059,R4,1933.85,528.32,Tablet,Technology,Tablets,Vivaan,Home Office,West
+O0638,2024-08-18,8,2024,C098,P068,R1,195.8,15.7,Tablet,Technology,Tablets,Aditya,Home Office,North
+O0639,2023-04-01,4,2023,C103,P018,R3,2824.1,407.6,Headphones,Accessories,Audio,Aarav,Consumer,East
+O0640,2023-09-07,9,2023,C056,P066,R4,3694.16,632.63,Monitor,Technology,Displays,Aditya,Consumer,West
+O0641,2023-02-01,2,2023,C197,P004,R3,3034.37,519.04,Laptop,Technology,Computers,Aditya,Consumer,East
+O0642,2024-09-23,9,2024,C184,P093,R4,1847.02,105.85,Laptop,Technology,Computers,Meera,Corporate,West
+O0643,2023-04-03,4,2023,C058,P087,R1,2956.34,288.39,Keyboard,Accessories,Input Devices,Vivaan,Home Office,North
+O0644,2024-01-28,1,2024,C179,P083,R2,4702.02,982.8,Headphones,Accessories,Audio,Isha,Consumer,South
+O0645,2024-12-12,12,2024,C183,P013,R3,3968.07,345.41,Monitor,Technology,Displays,Aditya,Consumer,East
+O0646,2024-09-03,9,2024,C004,P042,R1,4465.72,960.39,Laptop,Technology,Computers,Rohan,Consumer,North
+O0647,2023-10-21,10,2023,C153,P071,R2,2520.85,420.06,Laptop,Technology,Computers,Meera,Consumer,South
+O0648,2023-09-24,9,2023,C052,P033,R3,1310.1,262.01,Keyboard,Accessories,Input Devices,Diya,Home Office,East
+O0649,2024-08-28,8,2024,C141,P083,R2,3531.23,829.04,Monitor,Technology,Displays,Rohan,Corporate,South
+O0650,2023-01-10,1,2023,C128,P012,R3,2147.79,474.59,Keyboard,Accessories,Input Devices,Ananya,Corporate,East
+O0651,2023-10-21,10,2023,C198,P013,R2,322.13,81.08,Tablet,Technology,Tablets,Diya,Home Office,South
+O0652,2023-02-14,2,2023,C180,P002,R4,840.44,218.35,Headphones,Accessories,Audio,Ananya,Corporate,West
+O0653,2024-02-15,2,2024,C180,P045,R1,452.35,131.48,Headphones,Accessories,Audio,Ananya,Corporate,North
+O0654,2023-10-21,10,2023,C196,P046,R4,2025.04,592.52,Monitor,Technology,Displays,Meera,Corporate,West
+O0655,2024-09-09,9,2024,C099,P055,R3,1093.91,110.07,Laptop,Technology,Computers,Aditya,Consumer,East
+O0656,2024-12-18,12,2024,C153,P079,R2,3364.54,694.82,Laptop,Technology,Computers,Rohan,Home Office,South
+O0657,2023-12-29,12,2023,C163,P067,R4,3703.95,422.18,Monitor,Technology,Displays,Vivaan,Corporate,West
+O0658,2023-08-12,8,2023,C001,P025,R2,2317.51,401.06,Laptop,Technology,Computers,Vivaan,Consumer,South
+O0659,2024-12-13,12,2024,C119,P071,R4,558.83,131.06,Headphones,Accessories,Audio,Meera,Home Office,West
+O0660,2024-11-28,11,2024,C004,P048,R4,862.44,182.17,Headphones,Accessories,Audio,Vivaan,Consumer,West
+O0661,2024-10-10,10,2024,C059,P036,R3,512.93,90.74,Keyboard,Accessories,Input Devices,Rohan,Consumer,East
+O0662,2024-10-10,10,2024,C011,P011,R3,3531.75,840.1,Monitor,Technology,Displays,Vivaan,Consumer,East
+O0663,2024-12-25,12,2024,C081,P029,R3,1024.77,70.04,Keyboard,Accessories,Input Devices,Diya,Consumer,East
+O0664,2024-04-20,4,2024,C139,P054,R4,117.51,7.7,Laptop,Technology,Computers,Meera,Corporate,West
+O0665,2023-04-06,4,2023,C014,P032,R1,2443.02,363.07,Tablet,Technology,Tablets,Ananya,Consumer,North
+O0666,2024-08-04,8,2024,C069,P010,R4,1464.84,331.44,Headphones,Accessories,Audio,Vivaan,Home Office,West
+O0667,2024-02-17,2,2024,C082,P033,R2,1287.58,255.07,Keyboard,Accessories,Input Devices,Meera,Home Office,South
+O0668,2023-12-14,12,2023,C130,P092,R1,3548.2,883.72,Monitor,Technology,Displays,Diya,Home Office,North
+O0669,2023-03-13,3,2023,C153,P004,R2,4929.77,293.64,Monitor,Technology,Displays,Diya,Corporate,South
+O0670,2024-05-12,5,2024,C049,P069,R2,646.43,135.88,Monitor,Technology,Displays,Rohan,Corporate,South
+O0671,2024-05-12,5,2024,C063,P064,R1,656.86,163.63,Monitor,Technology,Displays,Aditya,Corporate,North
+O0672,2023-09-17,9,2023,C053,P082,R3,627.78,185.87,Monitor,Technology,Displays,Aditya,Home Office,East
+O0673,2023-01-05,1,2023,C097,P047,R3,1008.38,234.65,Headphones,Accessories,Audio,Ananya,Consumer,East
+O0674,2023-09-26,9,2023,C156,P046,R2,4171.78,910.98,Phone,Technology,Mobiles,Vivaan,Home Office,South
+O0675,2023-08-14,8,2023,C140,P055,R4,4115.11,610.15,Keyboard,Accessories,Input Devices,Ananya,Consumer,West
+O0676,2023-06-28,6,2023,C104,P056,R1,481.46,36.48,Laptop,Technology,Computers,Rohan,Home Office,North
+O0677,2023-03-25,3,2023,C160,P001,R3,2393.46,672.46,Monitor,Technology,Displays,Aditya,Corporate,East
+O0678,2024-10-23,10,2024,C072,P006,R2,516.89,129.83,Monitor,Technology,Displays,Rohan,Consumer,South
+O0679,2023-01-14,1,2023,C037,P032,R3,4921.32,1115.96,Laptop,Technology,Computers,Diya,Consumer,East
+O0680,2023-08-04,8,2023,C126,P067,R2,1127.31,300.11,Laptop,Technology,Computers,Rohan,Consumer,South
+O0681,2023-10-21,10,2023,C017,P088,R2,4135.99,583.41,Monitor,Technology,Displays,Ananya,Corporate,South
+O0682,2023-09-15,9,2023,C160,P047,R4,578.73,63.86,Monitor,Technology,Displays,Ananya,Corporate,West
+O0683,2024-01-02,1,2024,C200,P004,R4,1128.73,189.9,Tablet,Technology,Tablets,Ananya,Home Office,West
+O0684,2023-06-15,6,2023,C111,P092,R1,378.73,113.55,Laptop,Technology,Computers,Meera,Corporate,North
+O0685,2023-03-05,3,2023,C088,P002,R4,2696.07,760.43,Monitor,Technology,Displays,Rohan,Corporate,West
+O0686,2024-08-26,8,2024,C097,P026,R3,1292.02,146.17,Keyboard,Accessories,Input Devices,Rohan,Corporate,East
+O0687,2023-04-12,4,2023,C052,P085,R2,2136.96,287.85,Headphones,Accessories,Audio,Diya,Home Office,South
+O0688,2023-10-31,10,2023,C014,P098,R2,3439.7,172.22,Tablet,Technology,Tablets,Vivaan,Consumer,South
+O0689,2023-12-17,12,2023,C048,P086,R2,526.63,54.63,Keyboard,Accessories,Input Devices,Vivaan,Home Office,South
+O0690,2024-08-29,8,2024,C034,P053,R4,499.82,144.86,Keyboard,Accessories,Input Devices,Vivaan,Corporate,West
+O0691,2024-07-14,7,2024,C146,P087,R3,2201.88,432.81,Keyboard,Accessories,Input Devices,Meera,Home Office,East
+O0692,2023-11-29,11,2023,C021,P072,R4,679.3,108.56,Phone,Technology,Mobiles,Meera,Corporate,West
+O0693,2023-12-17,12,2023,C176,P089,R1,4460.57,428.64,Monitor,Technology,Displays,Aarav,Consumer,North
+O0694,2024-02-03,2,2024,C120,P033,R4,390.4,38.22,Headphones,Accessories,Audio,Diya,Consumer,West
+O0695,2024-01-11,1,2024,C085,P090,R4,557.7,74.25,Phone,Technology,Mobiles,Aditya,Home Office,West
+O0696,2024-11-02,11,2024,C033,P067,R3,1188.24,109.62,Phone,Technology,Mobiles,Vivaan,Consumer,East
+O0697,2023-01-04,1,2023,C020,P032,R4,2333.8,382.17,Tablet,Technology,Tablets,Meera,Consumer,West
+O0698,2024-11-10,11,2024,C116,P044,R1,3447.97,397.12,Headphones,Accessories,Audio,Vivaan,Corporate,North
+O0699,2024-09-13,9,2024,C141,P065,R3,3713.56,380.51,Laptop,Technology,Computers,Aditya,Corporate,East
+O0700,2023-11-20,11,2023,C133,P043,R2,2299.4,334.45,Laptop,Technology,Computers,Meera,Consumer,South
+O0701,2023-03-01,3,2023,C035,P097,R2,3057.06,747.6,Tablet,Technology,Tablets,Meera,Consumer,South
+O0702,2024-03-18,3,2024,C150,P031,R4,2157.05,260.41,Keyboard,Accessories,Input Devices,Vivaan,Consumer,West
+O0703,2024-11-30,11,2024,C172,P004,R3,2219.51,175.29,Tablet,Technology,Tablets,Aarav,Home Office,East
+O0704,2024-08-12,8,2024,C043,P051,R4,795.89,86.33,Laptop,Technology,Computers,Rohan,Corporate,West
+O0705,2023-02-08,2,2023,C175,P030,R3,1649.28,470.3,Headphones,Accessories,Audio,Diya,Consumer,East
+O0706,2024-07-02,7,2024,C057,P036,R3,1450.79,312.18,Headphones,Accessories,Audio,Vivaan,Consumer,East
+O0707,2023-02-23,2,2023,C102,P024,R2,3935.38,416.67,Headphones,Accessories,Audio,Isha,Corporate,South
+O0708,2024-09-02,9,2024,C014,P074,R1,2715.78,678.96,Keyboard,Accessories,Input Devices,Rohan,Home Office,North
+O0709,2024-03-02,3,2024,C048,P069,R2,1930.66,154.94,Keyboard,Accessories,Input Devices,Rohan,Corporate,South
+O0710,2024-03-12,3,2024,C191,P048,R3,645.87,174.84,Headphones,Accessories,Audio,Meera,Consumer,East
+O0711,2023-01-17,1,2023,C006,P001,R1,4599.1,488.18,Tablet,Technology,Tablets,Vivaan,Corporate,North
+O0712,2024-09-18,9,2024,C077,P035,R3,394.48,88.96,Laptop,Technology,Computers,Meera,Consumer,East
+O0713,2023-04-17,4,2023,C057,P045,R3,2908.07,769.72,Tablet,Technology,Tablets,Meera,Home Office,East
+O0714,2023-06-25,6,2023,C133,P003,R2,1032.71,144.37,Headphones,Accessories,Audio,Isha,Home Office,South
+O0715,2023-12-24,12,2023,C057,P063,R3,2197.29,371.92,Phone,Technology,Mobiles,Meera,Consumer,East
+O0716,2023-09-29,9,2023,C061,P031,R3,3267.02,283.82,Phone,Technology,Mobiles,Diya,Corporate,East
+O0717,2023-11-27,11,2023,C044,P015,R1,2864.15,658.99,Monitor,Technology,Displays,Vivaan,Corporate,North
+O0718,2024-09-09,9,2024,C151,P047,R3,3511.63,610.08,Laptop,Technology,Computers,Isha,Home Office,East
+O0719,2024-09-10,9,2024,C003,P058,R4,1923.96,454.83,Headphones,Accessories,Audio,Ananya,Corporate,West
+O0720,2024-04-07,4,2024,C055,P051,R3,2850.87,665.32,Headphones,Accessories,Audio,Isha,Corporate,East
+O0721,2023-12-05,12,2023,C071,P096,R3,4094.2,219.52,Tablet,Technology,Tablets,Aditya,Home Office,East
+O0722,2023-07-04,7,2023,C038,P035,R2,516.7,32.62,Keyboard,Accessories,Input Devices,Vivaan,Corporate,South
+O0723,2024-10-15,10,2024,C030,P088,R2,918.56,88.01,Keyboard,Accessories,Input Devices,Ananya,Corporate,South
+O0724,2023-06-18,6,2023,C175,P034,R1,2069.11,167.94,Headphones,Accessories,Audio,Aarav,Consumer,North
+O0725,2024-04-03,4,2024,C112,P086,R2,405.62,66.43,Keyboard,Accessories,Input Devices,Aditya,Corporate,South
+O0726,2023-11-03,11,2023,C152,P011,R1,2864.78,358.75,Laptop,Technology,Computers,Ananya,Home Office,North
+O0727,2024-01-28,1,2024,C003,P080,R3,2079.03,364.66,Keyboard,Accessories,Input Devices,Ananya,Consumer,East
+O0728,2023-10-19,10,2023,C002,P092,R4,2989.82,356.23,Phone,Technology,Mobiles,Meera,Consumer,West
+O0729,2024-03-17,3,2024,C054,P047,R1,4663.51,1289.48,Monitor,Technology,Displays,Aarav,Corporate,North
+O0730,2024-05-15,5,2024,C099,P008,R3,2720.07,137.59,Laptop,Technology,Computers,Rohan,Home Office,East
+O0731,2024-07-09,7,2024,C049,P067,R1,4856.66,507.68,Laptop,Technology,Computers,Diya,Consumer,North
+O0732,2024-09-19,9,2024,C017,P031,R2,1480.71,221.04,Monitor,Technology,Displays,Isha,Consumer,South
+O0733,2023-06-25,6,2023,C198,P030,R2,2538.86,583.2,Keyboard,Accessories,Input Devices,Meera,Corporate,South
+O0734,2024-01-16,1,2024,C127,P032,R2,3920.47,454.58,Tablet,Technology,Tablets,Isha,Home Office,South
+O0735,2024-03-01,3,2024,C079,P075,R2,4405.94,898.66,Headphones,Accessories,Audio,Meera,Home Office,South
+O0736,2024-05-04,5,2024,C085,P052,R4,4129.69,687.32,Tablet,Technology,Tablets,Rohan,Consumer,West
+O0737,2024-03-11,3,2024,C172,P056,R3,4329.26,1282.44,Tablet,Technology,Tablets,Ananya,Corporate,East
+O0738,2023-05-21,5,2023,C120,P027,R1,1115.83,61.68,Laptop,Technology,Computers,Isha,Consumer,North
+O0739,2023-08-05,8,2023,C083,P084,R4,4290.41,1099.97,Headphones,Accessories,Audio,Meera,Consumer,West
+O0740,2024-05-09,5,2024,C194,P005,R4,899.88,194.04,Keyboard,Accessories,Input Devices,Rohan,Consumer,West
+O0741,2023-08-11,8,2023,C139,P018,R4,1850.51,538.99,Phone,Technology,Mobiles,Aarav,Corporate,West
+O0742,2023-07-19,7,2023,C006,P004,R1,394.08,66.21,Tablet,Technology,Tablets,Vivaan,Corporate,North
+O0743,2023-03-28,3,2023,C183,P021,R4,3708.28,228.89,Headphones,Accessories,Audio,Ananya,Consumer,West
+O0744,2023-01-11,1,2023,C050,P034,R4,3145.44,464.5,Phone,Technology,Mobiles,Diya,Corporate,West
+O0745,2023-08-09,8,2023,C127,P051,R1,4467.14,555.58,Tablet,Technology,Tablets,Meera,Home Office,North
+O0746,2024-08-04,8,2024,C116,P026,R2,4536.01,1184.62,Monitor,Technology,Displays,Vivaan,Consumer,South
+O0747,2024-12-30,12,2024,C056,P086,R4,289.68,28.29,Keyboard,Accessories,Input Devices,Aarav,Home Office,West
+O0748,2024-02-18,2,2024,C095,P070,R4,4895.56,960.47,Laptop,Technology,Computers,Meera,Consumer,West
+O0749,2024-10-23,10,2024,C099,P049,R1,1512.44,150.5,Phone,Technology,Mobiles,Diya,Consumer,North
+O0750,2024-08-09,8,2024,C175,P084,R4,1671.99,485.28,Keyboard,Accessories,Input Devices,Aditya,Corporate,West
+O0751,2023-12-14,12,2023,C001,P099,R2,1057.47,279.21,Phone,Technology,Mobiles,Diya,Corporate,South
+O0752,2023-05-18,5,2023,C008,P098,R3,2199.86,208.27,Phone,Technology,Mobiles,Aditya,Consumer,East
+O0753,2023-02-25,2,2023,C170,P042,R1,4706.56,809.5,Phone,Technology,Mobiles,Rohan,Consumer,North
+O0754,2024-11-29,11,2024,C009,P063,R4,2018.32,597.92,Keyboard,Accessories,Input Devices,Aditya,Consumer,West
+O0755,2023-04-01,4,2023,C165,P025,R3,4819.66,1087.48,Tablet,Technology,Tablets,Diya,Home Office,East
+O0756,2023-02-07,2,2023,C003,P014,R3,3316.76,753.81,Keyboard,Accessories,Input Devices,Meera,Corporate,East
+O0757,2024-02-01,2,2024,C080,P076,R1,4108.68,407.78,Laptop,Technology,Computers,Aditya,Home Office,North
+O0758,2024-06-01,6,2024,C031,P079,R3,229.04,60.79,Tablet,Technology,Tablets,Diya,Home Office,East
+O0759,2024-04-25,4,2024,C182,P028,R2,3681.43,391.58,Phone,Technology,Mobiles,Ananya,Consumer,South
+O0760,2024-02-19,2,2024,C094,P092,R1,4013.5,703.55,Phone,Technology,Mobiles,Ananya,Corporate,North
+O0761,2023-04-13,4,2023,C033,P006,R3,1141.72,269.23,Headphones,Accessories,Audio,Vivaan,Consumer,East
+O0762,2024-03-29,3,2024,C026,P084,R3,2701.72,278.26,Tablet,Technology,Tablets,Aarav,Home Office,East
+O0763,2023-07-24,7,2023,C171,P096,R1,756.57,156.05,Monitor,Technology,Displays,Diya,Home Office,North
+O0764,2024-06-18,6,2024,C041,P040,R4,2395.67,140.94,Tablet,Technology,Tablets,Ananya,Consumer,West
+O0765,2024-06-11,6,2024,C089,P010,R3,2041.74,293.87,Tablet,Technology,Tablets,Rohan,Consumer,East
+O0766,2024-11-13,11,2024,C139,P083,R3,2740.17,620.02,Tablet,Technology,Tablets,Diya,Consumer,East
+O0767,2024-06-17,6,2024,C043,P098,R4,3117.29,732.02,Monitor,Technology,Displays,Diya,Corporate,West
+O0768,2023-06-02,6,2023,C062,P055,R2,143.68,40.26,Laptop,Technology,Computers,Aarav,Home Office,South
+O0769,2024-04-11,4,2024,C089,P055,R1,964.46,172.6,Monitor,Technology,Displays,Aarav,Home Office,North
+O0770,2023-07-24,7,2023,C198,P049,R1,2459.67,474.87,Headphones,Accessories,Audio,Rohan,Consumer,North
+O0771,2023-11-23,11,2023,C163,P083,R4,3478.95,1025.89,Monitor,Technology,Displays,Vivaan,Home Office,West
+O0772,2023-09-30,9,2023,C019,P010,R3,1486.07,194.02,Headphones,Accessories,Audio,Isha,Corporate,East
+O0773,2024-12-06,12,2024,C193,P039,R2,451.08,124.25,Headphones,Accessories,Audio,Aditya,Corporate,South
+O0774,2023-02-23,2,2023,C124,P021,R2,2437.31,256.78,Headphones,Accessories,Audio,Diya,Home Office,South
+O0775,2024-09-14,9,2024,C122,P022,R3,1101.6,70.97,Laptop,Technology,Computers,Vivaan,Corporate,East
+O0776,2023-03-13,3,2023,C067,P058,R4,4449.6,539.19,Headphones,Accessories,Audio,Vivaan,Home Office,West
+O0777,2024-08-23,8,2024,C063,P025,R3,2655.13,249.69,Monitor,Technology,Displays,Aditya,Home Office,East
+O0778,2024-06-25,6,2024,C025,P007,R1,4687.81,475.25,Tablet,Technology,Tablets,Aditya,Home Office,North
+O0779,2023-04-26,4,2023,C135,P021,R2,2867.94,363.75,Phone,Technology,Mobiles,Rohan,Corporate,South
+O0780,2023-08-16,8,2023,C109,P052,R2,825.34,43.71,Tablet,Technology,Tablets,Meera,Consumer,South
+O0781,2023-02-14,2,2023,C159,P036,R3,2889.5,285.82,Monitor,Technology,Displays,Ananya,Home Office,East
+O0782,2023-04-10,4,2023,C070,P086,R2,4306.79,597.56,Headphones,Accessories,Audio,Diya,Corporate,South
+O0783,2024-02-16,2,2024,C060,P075,R3,2694.29,724.05,Keyboard,Accessories,Input Devices,Aarav,Home Office,East
+O0784,2023-01-06,1,2023,C055,P089,R2,2240.72,398.83,Laptop,Technology,Computers,Ananya,Consumer,South
+O0785,2023-12-10,12,2023,C154,P093,R2,4002.84,738.51,Phone,Technology,Mobiles,Ananya,Corporate,South
+O0786,2023-11-17,11,2023,C106,P020,R2,2073.71,283.36,Laptop,Technology,Computers,Vivaan,Corporate,South
+O0787,2024-10-21,10,2024,C078,P023,R1,4459.84,751.89,Keyboard,Accessories,Input Devices,Rohan,Corporate,North
+O0788,2024-03-03,3,2024,C055,P085,R3,3381.37,483.93,Keyboard,Accessories,Input Devices,Diya,Corporate,East
+O0789,2023-10-22,10,2023,C110,P056,R1,3048.51,222.13,Headphones,Accessories,Audio,Diya,Corporate,North
+O0790,2023-09-16,9,2023,C118,P023,R1,4036.93,737.56,Headphones,Accessories,Audio,Diya,Home Office,North
+O0791,2024-04-27,4,2024,C119,P044,R4,1388.9,137.82,Phone,Technology,Mobiles,Isha,Corporate,West
+O0792,2023-10-02,10,2023,C127,P033,R1,4473.52,1082.25,Keyboard,Accessories,Input Devices,Aarav,Home Office,North
+O0793,2023-07-13,7,2023,C042,P056,R1,158.59,9.2,Keyboard,Accessories,Input Devices,Diya,Corporate,North
+O0794,2024-12-12,12,2024,C152,P035,R2,2637.33,535.96,Headphones,Accessories,Audio,Aditya,Corporate,South
+O0795,2023-04-03,4,2023,C135,P053,R1,3913.42,415.78,Headphones,Accessories,Audio,Aditya,Corporate,North
+O0796,2024-06-10,6,2024,C082,P074,R3,1018.98,103.18,Laptop,Technology,Computers,Diya,Corporate,East
+O0797,2023-05-07,5,2023,C060,P054,R4,2825.76,355.35,Tablet,Technology,Tablets,Diya,Home Office,West
+O0798,2023-10-24,10,2023,C073,P081,R1,4239.39,771.14,Laptop,Technology,Computers,Ananya,Corporate,North
+O0799,2024-09-29,9,2024,C127,P015,R4,2253.25,497.41,Keyboard,Accessories,Input Devices,Aditya,Corporate,West
+O0800,2023-08-01,8,2023,C178,P054,R1,3118.3,616.06,Tablet,Technology,Tablets,Rohan,Home Office,North
+O0801,2023-03-14,3,2023,C019,P010,R3,1357.15,176.93,Phone,Technology,Mobiles,Aarav,Corporate,East
+O0802,2024-03-14,3,2024,C194,P083,R2,4809.19,632.83,Monitor,Technology,Displays,Diya,Corporate,South
+O0803,2024-11-17,11,2024,C089,P067,R2,3885.43,438.8,Laptop,Technology,Computers,Meera,Home Office,South
+O0804,2023-10-24,10,2023,C136,P053,R4,3269.74,851.32,Keyboard,Accessories,Input Devices,Aarav,Consumer,West
+O0805,2024-11-02,11,2024,C076,P036,R2,2004.76,267.96,Headphones,Accessories,Audio,Aarav,Consumer,South
+O0806,2024-12-02,12,2024,C141,P039,R4,258.67,68.42,Laptop,Technology,Computers,Isha,Consumer,West
+O0807,2023-12-18,12,2023,C181,P082,R2,3386.76,514.75,Laptop,Technology,Computers,Ananya,Corporate,South
+O0808,2024-06-18,6,2024,C109,P057,R4,4174.87,678.08,Tablet,Technology,Tablets,Aarav,Home Office,West
+O0809,2024-11-04,11,2024,C142,P072,R4,2211.51,142.99,Phone,Technology,Mobiles,Aditya,Corporate,West
+O0810,2024-08-13,8,2024,C146,P064,R3,2668.61,326.82,Monitor,Technology,Displays,Meera,Home Office,East
+O0811,2024-06-08,6,2024,C121,P084,R4,689.89,65.34,Phone,Technology,Mobiles,Meera,Corporate,West
+O0812,2024-08-02,8,2024,C130,P082,R2,1407.34,160.27,Monitor,Technology,Displays,Meera,Corporate,South
+O0813,2023-01-07,1,2023,C169,P039,R4,1863.07,384.56,Monitor,Technology,Displays,Ananya,Corporate,West
+O0814,2023-02-14,2,2023,C041,P095,R3,3741.09,912.61,Headphones,Accessories,Audio,Aditya,Corporate,East
+O0815,2024-12-10,12,2024,C014,P066,R1,1918.37,447.72,Laptop,Technology,Computers,Isha,Home Office,North
+O0816,2024-03-13,3,2024,C188,P038,R3,4064.1,1184.94,Monitor,Technology,Displays,Aarav,Corporate,East
+O0817,2023-10-31,10,2023,C179,P052,R4,3134.04,377.9,Monitor,Technology,Displays,Meera,Home Office,West
+O0818,2024-09-14,9,2024,C041,P042,R3,3344.39,632.24,Headphones,Accessories,Audio,Isha,Consumer,East
+O0819,2024-08-23,8,2024,C190,P084,R2,2022.22,107.44,Keyboard,Accessories,Input Devices,Meera,Corporate,South
+O0820,2024-11-18,11,2024,C060,P041,R4,2285.35,125.99,Keyboard,Accessories,Input Devices,Rohan,Corporate,West
+O0821,2024-12-09,12,2024,C171,P046,R3,3614.48,1045.12,Laptop,Technology,Computers,Diya,Corporate,East
+O0822,2023-12-12,12,2023,C181,P041,R2,416.64,65.38,Monitor,Technology,Displays,Isha,Consumer,South
+O0823,2023-06-20,6,2023,C153,P088,R4,2365.03,631.85,Phone,Technology,Mobiles,Vivaan,Corporate,West
+O0824,2023-12-10,12,2023,C052,P040,R1,2685.48,311.87,Tablet,Technology,Tablets,Aarav,Corporate,North
+O0825,2024-08-16,8,2024,C145,P062,R4,2366.79,540.38,Laptop,Technology,Computers,Ananya,Home Office,West
+O0826,2024-05-12,5,2024,C159,P071,R4,3911.14,650.78,Keyboard,Accessories,Input Devices,Aarav,Consumer,West
+O0827,2023-10-18,10,2023,C062,P002,R4,4916.01,877.29,Keyboard,Accessories,Input Devices,Meera,Consumer,West
+O0828,2023-08-19,8,2023,C027,P001,R1,4447.15,1288.31,Keyboard,Accessories,Input Devices,Aarav,Consumer,North
+O0829,2024-06-12,6,2024,C014,P047,R4,3815.96,795.32,Phone,Technology,Mobiles,Vivaan,Consumer,West
+O0830,2023-11-08,11,2023,C161,P055,R3,3655.34,882.87,Monitor,Technology,Displays,Vivaan,Consumer,East
+O0831,2023-09-26,9,2023,C182,P065,R2,2997.75,357.56,Tablet,Technology,Tablets,Aarav,Corporate,South
+O0832,2024-03-20,3,2024,C003,P074,R1,1859.23,337.88,Headphones,Accessories,Audio,Meera,Corporate,North
+O0833,2023-10-03,10,2023,C109,P097,R3,2408.37,255.23,Keyboard,Accessories,Input Devices,Rohan,Consumer,East
+O0834,2023-03-23,3,2023,C175,P068,R1,4588.97,412.12,Laptop,Technology,Computers,Rohan,Consumer,North
+O0835,2024-09-24,9,2024,C185,P087,R3,2740.04,294.58,Tablet,Technology,Tablets,Vivaan,Consumer,East
+O0836,2023-05-16,5,2023,C043,P049,R4,3689.91,303.18,Tablet,Technology,Tablets,Meera,Corporate,West
+O0837,2023-05-20,5,2023,C117,P019,R3,4402.77,707.68,Monitor,Technology,Displays,Rohan,Home Office,East
+O0838,2024-10-26,10,2024,C090,P077,R3,2666.24,498.65,Headphones,Accessories,Audio,Aarav,Corporate,East
+O0839,2024-02-24,2,2024,C158,P027,R1,4986.67,956.81,Phone,Technology,Mobiles,Diya,Corporate,North
+O0840,2023-04-27,4,2023,C152,P014,R2,3724.59,1042.94,Laptop,Technology,Computers,Vivaan,Consumer,South
+O0841,2023-08-19,8,2023,C160,P099,R2,3386.03,825.98,Monitor,Technology,Displays,Ananya,Consumer,South
+O0842,2024-08-22,8,2024,C138,P075,R4,2564.33,715.88,Laptop,Technology,Computers,Rohan,Corporate,West
+O0843,2024-05-27,5,2024,C167,P026,R2,3256.92,829.29,Headphones,Accessories,Audio,Ananya,Corporate,South
+O0844,2024-08-21,8,2024,C195,P083,R3,3041.53,285.52,Headphones,Accessories,Audio,Isha,Consumer,East
+O0845,2024-02-28,2,2024,C009,P084,R3,3356.48,365.68,Tablet,Technology,Tablets,Aditya,Corporate,East
+O0846,2024-11-13,11,2024,C017,P066,R3,4552.05,1043.31,Tablet,Technology,Tablets,Ananya,Home Office,East
+O0847,2024-08-23,8,2024,C146,P030,R1,184.54,18.05,Laptop,Technology,Computers,Diya,Corporate,North
+O0848,2023-12-17,12,2023,C081,P014,R3,2805.07,555.97,Headphones,Accessories,Audio,Ananya,Consumer,East
+O0849,2023-07-04,7,2023,C068,P016,R1,4130.32,605.37,Monitor,Technology,Displays,Ananya,Home Office,North
+O0850,2023-12-15,12,2023,C193,P086,R2,1462.21,190.25,Headphones,Accessories,Audio,Rohan,Home Office,South
+O0851,2023-06-19,6,2023,C135,P047,R1,1027.76,306.15,Monitor,Technology,Displays,Diya,Corporate,North
+O0852,2024-10-09,10,2024,C196,P077,R4,4887.13,708.42,Keyboard,Accessories,Input Devices,Diya,Corporate,West
+O0853,2024-11-14,11,2024,C104,P023,R1,3967.3,851.41,Monitor,Technology,Displays,Aditya,Home Office,North
+O0854,2023-10-29,10,2023,C150,P065,R2,691.9,46.44,Monitor,Technology,Displays,Ananya,Home Office,South
+O0855,2023-05-04,5,2023,C168,P021,R1,1711.25,215.19,Tablet,Technology,Tablets,Rohan,Home Office,North
+O0856,2023-10-23,10,2023,C119,P077,R4,3807.92,377.66,Keyboard,Accessories,Input Devices,Diya,Consumer,West
+O0857,2023-12-16,12,2023,C060,P100,R4,4323.79,310.88,Headphones,Accessories,Audio,Meera,Corporate,West
+O0858,2024-08-14,8,2024,C056,P082,R1,1330.48,212.16,Laptop,Technology,Computers,Vivaan,Home Office,North
+O0859,2024-11-20,11,2024,C028,P084,R1,408.59,57.08,Monitor,Technology,Displays,Rohan,Consumer,North
+O0860,2024-02-29,2,2024,C047,P067,R4,4394.47,1107.59,Laptop,Technology,Computers,Isha,Home Office,West
+O0861,2024-05-06,5,2024,C038,P085,R3,4445.15,592.53,Phone,Technology,Mobiles,Aarav,Home Office,East
+O0862,2024-09-30,9,2024,C166,P040,R2,973.13,157.94,Keyboard,Accessories,Input Devices,Rohan,Consumer,South
+O0863,2024-12-31,12,2024,C026,P064,R2,621.95,129.46,Laptop,Technology,Computers,Isha,Consumer,South
+O0864,2023-01-03,1,2023,C029,P033,R1,3233.13,602.28,Monitor,Technology,Displays,Aarav,Corporate,North
+O0865,2024-06-27,6,2024,C143,P045,R2,1319.11,223.37,Laptop,Technology,Computers,Diya,Home Office,South
+O0866,2023-08-30,8,2023,C190,P081,R3,737.62,79.51,Phone,Technology,Mobiles,Diya,Consumer,East
+O0867,2023-11-26,11,2023,C093,P022,R4,2960.09,502.2,Headphones,Accessories,Audio,Ananya,Corporate,West
+O0868,2023-09-07,9,2023,C105,P043,R4,4385.13,228.07,Phone,Technology,Mobiles,Rohan,Home Office,West
+O0869,2024-02-23,2,2024,C121,P027,R2,4784.94,491.54,Monitor,Technology,Displays,Ananya,Consumer,South
+O0870,2023-01-08,1,2023,C176,P024,R3,3676.56,401.05,Headphones,Accessories,Audio,Diya,Corporate,East
+O0871,2023-01-07,1,2023,C055,P045,R1,1161.84,303.0,Monitor,Technology,Displays,Meera,Consumer,North
+O0872,2023-02-09,2,2023,C065,P072,R1,3656.38,727.82,Keyboard,Accessories,Input Devices,Aarav,Consumer,North
+O0873,2023-06-24,6,2023,C145,P065,R1,707.68,175.93,Laptop,Technology,Computers,Diya,Home Office,North
+O0874,2023-05-04,5,2023,C078,P083,R1,4187.56,1030.07,Headphones,Accessories,Audio,Aarav,Consumer,North
+O0875,2023-09-06,9,2023,C114,P089,R2,3878.37,598.47,Tablet,Technology,Tablets,Isha,Consumer,South
+O0876,2024-08-31,8,2024,C067,P007,R2,1600.68,162.23,Headphones,Accessories,Audio,Isha,Corporate,South
+O0877,2023-12-29,12,2023,C073,P001,R1,4905.21,1351.27,Keyboard,Accessories,Input Devices,Rohan,Corporate,North
+O0878,2023-10-01,10,2023,C088,P061,R3,3396.91,258.57,Keyboard,Accessories,Input Devices,Vivaan,Consumer,East
+O0879,2024-03-07,3,2024,C184,P028,R2,472.24,119.43,Headphones,Accessories,Audio,Vivaan,Home Office,South
+O0880,2024-01-21,1,2024,C006,P005,R1,1558.68,105.39,Laptop,Technology,Computers,Aditya,Home Office,North
+O0881,2023-12-22,12,2023,C059,P007,R3,4072.49,438.96,Headphones,Accessories,Audio,Meera,Consumer,East
+O0882,2024-04-17,4,2024,C018,P078,R3,3120.93,486.57,Phone,Technology,Mobiles,Diya,Home Office,East
+O0883,2023-09-18,9,2023,C026,P083,R4,1835.87,342.78,Laptop,Technology,Computers,Meera,Home Office,West
+O0884,2024-10-17,10,2024,C028,P004,R1,1403.63,256.22,Laptop,Technology,Computers,Isha,Home Office,North
+O0885,2023-01-10,1,2023,C179,P093,R2,2039.91,108.58,Monitor,Technology,Displays,Aarav,Home Office,South
+O0886,2023-11-06,11,2023,C163,P014,R4,2994.53,381.87,Monitor,Technology,Displays,Ananya,Consumer,West
+O0887,2024-05-19,5,2024,C111,P017,R2,3239.23,673.12,Keyboard,Accessories,Input Devices,Rohan,Consumer,South
+O0888,2023-04-04,4,2023,C035,P048,R1,548.06,94.48,Monitor,Technology,Displays,Vivaan,Consumer,North
+O0889,2023-03-06,3,2023,C143,P045,R2,3551.73,335.74,Headphones,Accessories,Audio,Vivaan,Corporate,South
+O0890,2023-12-19,12,2023,C117,P074,R1,1404.21,374.85,Headphones,Accessories,Audio,Isha,Corporate,North
+O0891,2023-04-01,4,2023,C097,P054,R2,1503.32,105.33,Laptop,Technology,Computers,Isha,Corporate,South
+O0892,2023-05-26,5,2023,C016,P094,R2,230.42,42.01,Tablet,Technology,Tablets,Aditya,Consumer,South
+O0893,2023-02-26,2,2023,C176,P100,R2,3313.33,781.49,Tablet,Technology,Tablets,Aditya,Consumer,South
+O0894,2024-07-02,7,2024,C049,P006,R2,3435.9,313.03,Tablet,Technology,Tablets,Rohan,Consumer,South
+O0895,2024-02-16,2,2024,C099,P007,R2,2604.2,137.25,Phone,Technology,Mobiles,Ananya,Consumer,South
+O0896,2023-08-27,8,2023,C165,P098,R3,4044.39,411.01,Laptop,Technology,Computers,Aarav,Home Office,East
+O0897,2024-02-16,2,2024,C023,P022,R4,4384.69,405.3,Monitor,Technology,Displays,Aditya,Consumer,West
+O0898,2023-10-05,10,2023,C081,P054,R3,2539.96,377.18,Monitor,Technology,Displays,Aditya,Corporate,East
+O0899,2023-07-08,7,2023,C173,P024,R3,2329.08,362.38,Monitor,Technology,Displays,Rohan,Consumer,East
+O0900,2024-11-19,11,2024,C143,P069,R3,3563.78,740.35,Monitor,Technology,Displays,Aarav,Home Office,East
+O0901,2023-08-31,8,2023,C024,P041,R1,3899.7,290.6,Keyboard,Accessories,Input Devices,Rohan,Home Office,North
+O0902,2024-10-30,10,2024,C086,P022,R2,4189.87,362.24,Monitor,Technology,Displays,Diya,Home Office,South
+O0903,2023-07-14,7,2023,C017,P060,R2,1828.02,378.78,Headphones,Accessories,Audio,Isha,Home Office,South
+O0904,2023-12-01,12,2023,C123,P096,R4,1425.07,117.17,Headphones,Accessories,Audio,Vivaan,Consumer,West
+O0905,2023-08-02,8,2023,C197,P054,R4,1777.47,527.16,Phone,Technology,Mobiles,Vivaan,Consumer,West
+O0906,2024-09-26,9,2024,C001,P039,R2,1162.46,324.65,Headphones,Accessories,Audio,Isha,Corporate,South
+O0907,2023-02-06,2,2023,C103,P052,R4,3527.31,577.62,Tablet,Technology,Tablets,Aarav,Corporate,West
+O0908,2024-12-22,12,2024,C140,P040,R3,2203.59,523.92,Tablet,Technology,Tablets,Diya,Corporate,East
+O0909,2023-05-06,5,2023,C068,P012,R3,4385.32,343.1,Monitor,Technology,Displays,Ananya,Home Office,East
+O0910,2023-10-22,10,2023,C140,P011,R1,470.34,118.64,Tablet,Technology,Tablets,Diya,Home Office,North
+O0911,2023-10-07,10,2023,C072,P012,R1,4039.24,684.6,Tablet,Technology,Tablets,Aditya,Corporate,North
+O0912,2023-08-14,8,2023,C158,P055,R3,2677.86,165.66,Keyboard,Accessories,Input Devices,Ananya,Home Office,East
+O0913,2023-12-18,12,2023,C190,P059,R3,684.31,117.57,Monitor,Technology,Displays,Rohan,Consumer,East
+O0914,2023-06-18,6,2023,C098,P075,R4,2153.73,142.81,Headphones,Accessories,Audio,Vivaan,Corporate,West
+O0915,2024-06-07,6,2024,C084,P024,R2,3611.74,410.26,Monitor,Technology,Displays,Meera,Corporate,South
+O0916,2024-08-13,8,2024,C177,P009,R3,2400.08,392.42,Phone,Technology,Mobiles,Aditya,Consumer,East
+O0917,2023-09-07,9,2023,C120,P090,R4,4115.6,396.74,Laptop,Technology,Computers,Diya,Home Office,West
+O0918,2023-04-03,4,2023,C139,P026,R3,451.27,58.28,Headphones,Accessories,Audio,Rohan,Corporate,East
+O0919,2024-10-30,10,2024,C057,P033,R4,4239.12,625.7,Monitor,Technology,Displays,Aditya,Consumer,West
+O0920,2023-10-31,10,2023,C169,P094,R3,2318.86,197.0,Headphones,Accessories,Audio,Diya,Consumer,East
+O0921,2023-07-03,7,2023,C171,P065,R1,2299.76,147.23,Keyboard,Accessories,Input Devices,Meera,Home Office,North
+O0922,2024-11-23,11,2024,C111,P055,R3,2359.21,134.13,Tablet,Technology,Tablets,Meera,Home Office,East
+O0923,2023-08-03,8,2023,C037,P036,R4,1216.33,198.57,Monitor,Technology,Displays,Rohan,Corporate,West
+O0924,2023-07-23,7,2023,C167,P017,R4,3189.54,947.8,Keyboard,Accessories,Input Devices,Meera,Corporate,West
+O0925,2023-08-23,8,2023,C114,P015,R3,2649.35,411.58,Laptop,Technology,Computers,Meera,Consumer,East
+O0926,2024-02-21,2,2024,C131,P088,R3,3913.69,585.76,Phone,Technology,Mobiles,Diya,Consumer,East
+O0927,2023-05-20,5,2023,C130,P039,R4,3403.35,204.46,Headphones,Accessories,Audio,Isha,Home Office,West
+O0928,2024-08-13,8,2024,C111,P077,R4,4607.15,1368.85,Laptop,Technology,Computers,Ananya,Corporate,West
+O0929,2024-04-09,4,2024,C184,P059,R1,4659.1,466.2,Keyboard,Accessories,Input Devices,Rohan,Corporate,North
+O0930,2023-03-09,3,2023,C033,P022,R2,3730.06,853.17,Keyboard,Accessories,Input Devices,Aarav,Consumer,South
+O0931,2024-03-19,3,2024,C153,P064,R3,1325.11,138.53,Monitor,Technology,Displays,Meera,Home Office,East
+O0932,2024-09-13,9,2024,C007,P096,R1,1236.85,90.55,Laptop,Technology,Computers,Rohan,Corporate,North
+O0933,2023-10-31,10,2023,C021,P042,R2,3057.6,609.49,Tablet,Technology,Tablets,Aarav,Home Office,South
+O0934,2024-08-20,8,2024,C063,P022,R3,1574.41,425.71,Keyboard,Accessories,Input Devices,Aditya,Home Office,East
+O0935,2024-09-22,9,2024,C177,P078,R2,1866.25,452.8,Keyboard,Accessories,Input Devices,Vivaan,Consumer,South
+O0936,2024-03-03,3,2024,C037,P016,R4,4340.78,420.62,Keyboard,Accessories,Input Devices,Isha,Home Office,West
+O0937,2024-10-22,10,2024,C196,P029,R4,1736.94,335.26,Monitor,Technology,Displays,Meera,Corporate,West
+O0938,2023-05-31,5,2023,C134,P033,R4,4651.75,462.73,Headphones,Accessories,Audio,Diya,Consumer,West
+O0939,2023-01-01,1,2023,C060,P022,R3,4412.07,1147.17,Keyboard,Accessories,Input Devices,Rohan,Consumer,East
+O0940,2024-09-21,9,2024,C133,P094,R2,4073.8,922.8,Headphones,Accessories,Audio,Aarav,Home Office,South
+O0941,2023-10-26,10,2023,C003,P065,R1,136.89,33.36,Phone,Technology,Mobiles,Diya,Consumer,North
+O0942,2023-09-30,9,2023,C156,P073,R4,3319.59,266.19,Laptop,Technology,Computers,Ananya,Consumer,West
+O0943,2024-06-01,6,2024,C021,P062,R3,2809.76,262.48,Monitor,Technology,Displays,Aarav,Corporate,East
+O0944,2023-07-29,7,2023,C086,P084,R4,438.88,125.56,Monitor,Technology,Displays,Rohan,Consumer,West
+O0945,2024-09-12,9,2024,C039,P046,R1,129.39,24.7,Laptop,Technology,Computers,Isha,Consumer,North
+O0946,2024-10-12,10,2024,C136,P069,R4,1885.78,147.61,Laptop,Technology,Computers,Ananya,Corporate,West
+O0947,2023-05-15,5,2023,C037,P059,R3,4676.09,588.56,Tablet,Technology,Tablets,Meera,Home Office,East
+O0948,2023-12-16,12,2023,C034,P029,R1,4168.39,1056.99,Tablet,Technology,Tablets,Aarav,Home Office,North
+O0949,2024-07-03,7,2024,C139,P039,R2,3922.37,234.67,Laptop,Technology,Computers,Meera,Consumer,South
+O0950,2024-12-10,12,2024,C029,P087,R2,1610.69,148.42,Headphones,Accessories,Audio,Aarav,Consumer,South
+O0951,2023-06-08,6,2023,C174,P089,R2,3362.73,449.24,Headphones,Accessories,Audio,Aditya,Consumer,South
+O0952,2023-12-22,12,2023,C139,P079,R4,1685.16,445.48,Monitor,Technology,Displays,Ananya,Corporate,West
+O0953,2024-04-07,4,2024,C097,P100,R2,4722.36,1006.92,Monitor,Technology,Displays,Diya,Consumer,South
+O0954,2024-08-25,8,2024,C097,P049,R3,1494.96,174.27,Monitor,Technology,Displays,Rohan,Home Office,East
+O0955,2024-10-20,10,2024,C102,P077,R1,3115.86,596.32,Tablet,Technology,Tablets,Aditya,Corporate,North
+O0956,2024-01-14,1,2024,C112,P056,R3,833.78,185.48,Keyboard,Accessories,Input Devices,Rohan,Consumer,East
+O0957,2023-06-20,6,2023,C013,P098,R4,4411.32,382.0,Tablet,Technology,Tablets,Vivaan,Corporate,West
+O0958,2024-12-25,12,2024,C021,P077,R3,1795.68,146.24,Phone,Technology,Mobiles,Rohan,Consumer,East
+O0959,2024-11-29,11,2024,C056,P006,R2,1903.11,207.55,Tablet,Technology,Tablets,Ananya,Consumer,South
+O0960,2023-10-18,10,2023,C102,P088,R3,701.63,191.14,Laptop,Technology,Computers,Vivaan,Home Office,East
+O0961,2023-09-29,9,2023,C156,P100,R1,3426.57,350.49,Monitor,Technology,Displays,Isha,Corporate,North
+O0962,2023-07-27,7,2023,C139,P071,R1,3344.88,577.32,Headphones,Accessories,Audio,Aarav,Corporate,North
+O0963,2024-09-19,9,2024,C051,P053,R4,3674.38,744.29,Headphones,Accessories,Audio,Isha,Consumer,West
+O0964,2024-02-15,2,2024,C137,P094,R4,1989.94,223.62,Tablet,Technology,Tablets,Aditya,Home Office,West
+O0965,2024-03-26,3,2024,C030,P070,R4,3345.44,876.5,Monitor,Technology,Displays,Aditya,Corporate,West
+O0966,2024-05-22,5,2024,C172,P047,R3,131.74,11.75,Headphones,Accessories,Audio,Meera,Corporate,East
+O0967,2024-01-12,1,2024,C021,P029,R4,893.41,142.86,Phone,Technology,Mobiles,Aarav,Home Office,West
+O0968,2023-09-26,9,2023,C174,P080,R1,2066.98,373.34,Tablet,Technology,Tablets,Isha,Home Office,North
+O0969,2024-07-28,7,2024,C090,P053,R3,781.68,222.41,Monitor,Technology,Displays,Aarav,Home Office,East
+O0970,2024-07-17,7,2024,C077,P083,R3,2430.83,166.81,Laptop,Technology,Computers,Meera,Corporate,East
+O0971,2024-11-01,11,2024,C146,P035,R3,2228.54,634.31,Phone,Technology,Mobiles,Meera,Corporate,East
+O0972,2024-03-04,3,2024,C191,P055,R3,1376.62,130.46,Monitor,Technology,Displays,Vivaan,Corporate,East
+O0973,2023-02-06,2,2023,C025,P028,R1,4586.79,510.51,Tablet,Technology,Tablets,Diya,Home Office,North
+O0974,2024-10-10,10,2024,C139,P072,R4,2279.16,645.17,Laptop,Technology,Computers,Aditya,Consumer,West
+O0975,2024-05-18,5,2024,C071,P080,R1,3485.89,734.69,Tablet,Technology,Tablets,Vivaan,Home Office,North
+O0976,2024-12-18,12,2024,C023,P074,R1,1459.29,305.04,Monitor,Technology,Displays,Rohan,Consumer,North
+O0977,2024-11-19,11,2024,C146,P055,R1,1956.18,467.45,Monitor,Technology,Displays,Isha,Corporate,North
+O0978,2024-09-15,9,2024,C117,P092,R2,2531.76,489.82,Headphones,Accessories,Audio,Ananya,Consumer,South
+O0979,2023-01-22,1,2023,C045,P068,R1,2083.68,129.27,Laptop,Technology,Computers,Diya,Home Office,North
+O0980,2024-02-27,2,2024,C058,P058,R3,3137.32,751.04,Phone,Technology,Mobiles,Isha,Home Office,East
+O0981,2023-07-17,7,2023,C135,P037,R1,220.07,11.45,Tablet,Technology,Tablets,Aditya,Consumer,North
+O0982,2023-06-07,6,2023,C059,P010,R1,3187.04,446.21,Laptop,Technology,Computers,Isha,Corporate,North
+O0983,2023-07-21,7,2023,C026,P056,R3,3506.36,684.52,Phone,Technology,Mobiles,Vivaan,Home Office,East
+O0984,2024-06-12,6,2024,C175,P066,R1,1660.37,466.64,Phone,Technology,Mobiles,Vivaan,Home Office,North
+O0985,2023-05-29,5,2023,C099,P084,R2,4212.47,633.15,Headphones,Accessories,Audio,Rohan,Corporate,South
+O0986,2024-05-20,5,2024,C088,P050,R1,588.0,157.03,Headphones,Accessories,Audio,Aarav,Consumer,North
+O0987,2024-11-24,11,2024,C160,P038,R4,4633.0,706.12,Phone,Technology,Mobiles,Ananya,Corporate,West
+O0988,2023-05-26,5,2023,C162,P023,R2,1923.06,216.74,Monitor,Technology,Displays,Meera,Corporate,South
+O0989,2024-11-19,11,2024,C056,P033,R2,4758.93,572.56,Phone,Technology,Mobiles,Ananya,Corporate,South
+O0990,2024-05-24,5,2024,C090,P077,R2,915.09,168.36,Phone,Technology,Mobiles,Diya,Consumer,South
+O0991,2024-09-17,9,2024,C063,P097,R3,1993.72,389.79,Monitor,Technology,Displays,Diya,Home Office,East
+O0992,2024-07-19,7,2024,C036,P029,R1,4462.54,1147.97,Tablet,Technology,Tablets,Aarav,Corporate,North
+O0993,2023-05-03,5,2023,C064,P057,R2,2339.97,329.0,Keyboard,Accessories,Input Devices,Aditya,Consumer,South
+O0994,2023-12-31,12,2023,C123,P067,R2,4175.59,745.79,Laptop,Technology,Computers,Meera,Corporate,South
+O0995,2024-12-23,12,2024,C173,P043,R2,3625.71,368.74,Laptop,Technology,Computers,Isha,Corporate,South
+O0996,2024-09-28,9,2024,C088,P012,R4,146.46,20.48,Keyboard,Accessories,Input Devices,Isha,Consumer,West
+O0997,2023-03-04,3,2023,C055,P021,R1,2615.75,508.51,Laptop,Technology,Computers,Ananya,Corporate,North
+O0998,2024-08-08,8,2024,C107,P015,R4,4621.92,1312.07,Headphones,Accessories,Audio,Meera,Home Office,West
+O0999,2023-05-06,5,2023,C181,P056,R3,4566.21,1290.88,Tablet,Technology,Tablets,Rohan,Corporate,East
+O1000,2024-05-19,5,2024,C146,P064,R1,1869.78,347.66,Monitor,Technology,Displays,Meera,Home Office,North
